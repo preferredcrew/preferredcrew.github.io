@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6465F3F3-401D-4477-B239-E24CE5B68274">
+  <lastEdited clientType="local-build-20170218" date="2017-02-18 21:50:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;PC Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>How to write a strong Entry Level CV</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>So you are new to yachting &#x2013; you have read everything online about what an entry level crew member will be doing onboard.  You have read the blog from every expert out there who gives you advice.  This is great and all&#x2026;.but you still have no idea how to write a CV that will get you noticed.  We give you...How to write that Entry Level Yacht CV in Three Easy Steps:&#xD;&#xD;	1.	Understand what entry level crew does onboard.  Each yacht is different and the specifics will be a little different on each yacht, but there are some certainties that cross every position.  As entry level crew you will be Working Long Hours (you may want to print and underline that), Working with a Small Team, Lifting Heavy Things, Working in the Hot Sun, Having Amazing Attention to Detail, Keeping a Smile on Your Face.  &#xD;2. Look at what you have done in the past (work, education, fun).&#xD;	1.	Concisely outline in your previous work exactly what you physically did to show you are already experienced with Working Long Hours, Working with a Small Team, Lifting Heavy Things, Working in the Hot Sun, Having Amazing Attention to Detail, and Keeping a Smile on Your Face.  &#xD;&#xD;Seems crazy easy doesn&#x2019;t it?  It really is this simple.  At the end of the day, every Captain, Mate, Chief Stew, Chief Engineer hates to recruit.  They hate it.  When they need to hire a new, entry level person, they want to see that you already have the skills they need &#x2013; even if they have to teach you the specifics of their yacht!  Show them it is you and you will see positive responses.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, March 9, 2016&lt;/b&gt;</richText>
+  </textBox>
+</content>

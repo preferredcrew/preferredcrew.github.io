@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Tips</title>
+    <link>http://www.preferredcrew.com/PreferredCrew/Tips</link>
+    <description>We hope that we can assist you in yachting.  Below are the issues we get asked about most frequently (we will continue to add as they come up).</description>
+    <item>
+      <title>How to write a strong Entry Level CV</title>
+      <link>http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2016/3/9_How_to_write_a_strong_Entry_Level_CV.html</link>
+      <guid isPermaLink="false">5bfcb2a2-f5f0-4f76-a773-c254b3ba5fa6</guid>
+      <pubDate>Wed, 9 Mar 2016 13:55:48 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2016/3/9_How_to_write_a_strong_Entry_Level_CV.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The Recruiting Power of a Great Job Description</title>
+      <link>http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2014/7/10_The_Recruiting_Power_of_a_Great_Job_Description.html</link>
+      <guid isPermaLink="false">620d5dc5-7340-4a16-a41f-ffcc7765e5bd</guid>
+      <pubDate>Thu, 10 Jul 2014 19:24:12 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2014/7/10_The_Recruiting_Power_of_a_Great_Job_Description.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>CV / Resume Help</title>
+      <link>http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2014/6/14_CV___Resume_Help.html</link>
+      <guid isPermaLink="false">70924d57-6301-4469-bae1-121999db2d76</guid>
+      <pubDate>Sat, 14 Jun 2014 12:03:41 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.preferredcrew.com/PreferredCrew/Tips/Entries/2014/6/14_CV___Resume_Help.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.preferredcrew.com/PreferredCrew/Tips</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

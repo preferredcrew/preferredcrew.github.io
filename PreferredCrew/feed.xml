@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DEEB5072-83AF-4658-8AF0-3A3991EAD000</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-10-17T17:15:43-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:998418CB-8001-4505-A494-59EB1886063C</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">998418CB-8001-4505-A494-59EB1886063C</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2017-10-17T17:15:43.001-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B9AE4DF4-E250-4278-A358-AF31A2B20168</id>
+  <title>Crew Page</title>
+  <title xmlns="urn:iweb:">Crew Page</title>
+  <in-navbar xmlns="urn:iweb:">B9AE4DF4-E250-4278-A358-AF31A2B20168</in-navbar>
+  <link rel="alternate" href="Crew_Page.html"/>
+  <updated>2017-10-17T17:15:43.002-04:00</updated>
+  <content>Crew Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5FA97304-9FA5-4FD0-B1F5-492FD55AA8B2</id>
+  <title>Client Page</title>
+  <title xmlns="urn:iweb:">Client Page</title>
+  <in-navbar xmlns="urn:iweb:">5FA97304-9FA5-4FD0-B1F5-492FD55AA8B2</in-navbar>
+  <link rel="alternate" href="Client_Page.html"/>
+  <updated>2017-10-17T17:15:43.003-04:00</updated>
+  <content>Client Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:62344C4E-EAEB-4541-99AA-828D73E9C61C</id>
+  <title>Team Page</title>
+  <title xmlns="urn:iweb:">Team Page</title>
+  <in-navbar xmlns="urn:iweb:">62344C4E-EAEB-4541-99AA-828D73E9C61C</in-navbar>
+  <link rel="alternate" href="Team_Page.html"/>
+  <updated>2017-10-17T17:15:43.004-04:00</updated>
+  <content>Team Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:351A5667-B809-4CBF-A040-928853F23796</id>
+  <title>Tips</title>
+  <title xmlns="urn:iweb:">Tips</title>
+  <in-navbar xmlns="urn:iweb:">351A5667-B809-4CBF-A040-928853F23796</in-navbar>
+  <link rel="alternate" href="Tips/Tips.html"/>
+  <updated>2007-01-23T12:29:52-05:00</updated>
+  <content>Tips</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8B38BC71-9F15-48D4-98CA-1A680505F1B4</id>
+  <title>Jobs Page</title>
+  <title xmlns="urn:iweb:">Jobs Page</title>
+  <in-navbar xmlns="urn:iweb:">8B38BC71-9F15-48D4-98CA-1A680505F1B4</in-navbar>
+  <link rel="alternate" href="Jobs_Page.html"/>
+  <updated>2017-10-17T17:15:43.005-04:00</updated>
+  <content>Jobs Page</content>
+ </entry>
+</feed>

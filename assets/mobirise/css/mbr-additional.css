@@ -904,6 +904,7 @@ h6,
 #menu-1j .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
 }
+
 #msg-box8-1q .mbr-section-title,
 #msg-box8-1q p {
   color: #fff;
@@ -922,6 +923,13 @@ h6,
 }
 #msg-box8-1q .lead H1 {
   color: #ffffff;
+}
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f I {
+  font-family: 'Raleway', sans-serif;
 }
 #header3-1r .mbr-section-title,
 #header3-1r .mbr-section-subtitle {

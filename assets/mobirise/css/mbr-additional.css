@@ -932,20 +932,16 @@ h6,
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
-#header3-1r .mbr-section-title,
-#header3-1r .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1r H3 {
-  font-size: 24px;
-  color: #28324e;
-}
-#header3-1r SMALL {
-  color: #28324e;
-}
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
+}
+#features4-2h .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2h .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {

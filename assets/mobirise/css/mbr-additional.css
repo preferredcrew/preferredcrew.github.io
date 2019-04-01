@@ -943,6 +943,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-2h P {
+  color: #2969b0;
+}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;

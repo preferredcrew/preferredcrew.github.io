@@ -946,6 +946,10 @@ h6,
 #features4-2h P {
   color: #2969b0;
 }
+#features4-2h SPAN {
+  color: #3d8eb9;
+  text-align: right;
+}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;

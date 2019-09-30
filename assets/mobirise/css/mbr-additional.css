@@ -945,10 +945,14 @@ h6,
 }
 #features4-2h P {
   color: #2969b0;
+  font-size: 16px;
 }
 #features4-2h SPAN {
   color: #3d8eb9;
   text-align: right;
+}
+#features4-2h H4 {
+  text-align: center;
 }
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {

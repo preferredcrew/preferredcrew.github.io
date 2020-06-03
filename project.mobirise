@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 94,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1454,7 +1454,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": false,
@@ -1499,9 +1499,9 @@
               "family": "et-line"
             }
           },
-          "title3": "I’m in Fort Lauderdale right now, can I just stop in?",
+          "title3": "Ok - so exactly what documents do you need?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Unfortunately no.  As we are such a small agency, we do require an appointment for any meeting.  We don’t accept walk-ins.<br>",
+          "caption3": "1. A Yachting CV<br>2. STCW &nbsp;First Aid<br>3.STCW &nbsp;Fire Fighting<br>4. STCW PSSR<br>5. STCW PST<br>6. Medical Fit for Duty<br>7. Any written references you want us to have.<br>8. Nothing else - please nothing else.....<br>Each document must be under 2 MB and for the love of all that is holy, please scan them so that they are righ-side up.<br>.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1513,9 +1513,9 @@
               "family": "et-line"
             }
           },
-          "title4": "Do you work with new or “green” crew?",
+          "title4": "I'm in Fort Lauderdale right now, can I just stop in?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Yes.  As long as you have done your homework and fully grasp what is required of you when you go aboard.  With that, you must have a CV/Resume that clearly communicates how you are already skilled with the duties you will have to perform aboard.</span><br>",
+          "caption4": "Unfortunately no. As we are such a small agency, we do require an appointment for any meeting. We don’t accept walk-ins.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {

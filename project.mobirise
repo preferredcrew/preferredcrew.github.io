@@ -134,7 +134,7 @@
             "showButton": false
           },
           "title": "Easiest registration process for yachting professionals:<br><br>",
-          "text": "<ul><li>Gather your CV/Resume</li><li>Largest Deck &amp; Engine License</li><li>STCW Basic (including security)</li><li>ENG1 (or equivalent)</li><li>Any written references you would like to share with us</li></ul><p>Please make sure that each is under 2MB. Then click <a href=\"mailto:webpage@preferredcrew.com?subject=I%20would%20like%20to%20register\">here</a>&nbsp;to email them to us... and you are registered.</p><p>No forms to fill out....no retyping your CV over and over again. You are in.</p>",
+          "text": "<ul><li>Read the <a href=\"http://www.preferredcrew.com/crew.html\" target=\"_blank\">CREW</a>&nbsp;section on our site</li><li>If you need help with your CV read our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\">TIPS</a> section</li><li>Gather your CV/Resume</li><li>Largest Deck &amp; Engine License</li><li>STCW Basic Training (do include security)</li><li>ENG1 (or equivalent)</li><li>Any written references you would like to share with us</li></ul><p>Please make sure that each is under 2MB. Then click <a href=\"mailto:webpage@preferredcrew.com?subject=I%20would%20like%20to%20register\">here</a>&nbsp;to email them to us,&nbsp;</p><p>Although we would love to be able to assist everybody in their career path, we focus on long term yachting professionals - and will not be able to respond if your documents do not meet the standards on the CREW page.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -743,7 +743,7 @@
           },
           "title1": "What kind of crew do you recruit?",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">We recruit for every type of position aboard yachts.  But don’t let us oversell ourselves.  If we are going to be completely upfront about our success, we have to outline that more than 90% of the boats we work with are seeking full time crew (12 month contracts, not rotation, not freelance) to join motor yachts between 24m and 100m that move a lot!  When we say move, they move, they are not based in one port.  They are located truly all over the world, but they do move.  So if you are looking for a sail boat that lives full time in Fort Lauderdale, we are probably not the right agency for you.</span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">We recruit for every type of position aboard yachts.  But don’t let us oversell ourselves.  If we are going to be completely upfront about our success, we have to outline that more than 90% of the boats we work with are seeking full time crew (12 month contracts, not rotation, not freelance) to join motor yachts between 24m and 100m that move a lot!  When we say move, they move, they are not based in one port.  They are located truly all over the world, but they do move. If this is not your career path, &nbsp;we are probably not the right agency for you.</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -785,7 +785,7 @@
           },
           "title4": "Do you work with new or “green” crew?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Yes.  As long as you have done your homework and fully grasp what is required of you when you go aboard.  With that, you must have a CV/Resume that clearly communicates how you are already skilled with the duties you will have to perform aboard.</span><br>",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Yes.  As long as you have done your homework and fully grasp what is required of you when you go aboard.  With that, you must have a CV/Resume that clearly communicates how you are already skilled with the duties you will have to perform aboard.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Feel free to review our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\" class=\"text-info\">TIPS</a> page if you have a doubt about what we would need to see in a Entry Level CV.<br></span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -889,7 +889,7 @@
           },
           "title1": "What about teams?  Other people are telling me that I have to split from my partner to get a job.",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We will never promise you a job – we don’t own any yachts and therefore cannot offer any jobs – but if you are a committed team, we would rather represent you as such instead of trying to squeeze you into a program that does not fit your life.<br>",
+          "caption1": "We will never promise you a job – we don’t own any yachts and therefore cannot offer any jobs – and team positions are much less common than they used to be, but if you have a history of working together well, and at least one of you is an officer, we can consider you.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -917,7 +917,7 @@
           },
           "title3": "What about rotation positions?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We don’t speak for the entire industry – we are a small agency with a particular client base.  We see very, very few rotation positions.  If you are seeking rotation you really are going to want to work with your other agents or networks because we probably will not be calling very often.  The same is true for freelance or temporary spots.<br>",
+          "caption3": "We don’t speak for the entire industry – we are a small agency with a particular client base.  We see very, very few rotation positions.  If you are seeking rotation you really are going to want to work with your other agents or networks because we probably will not be calling very often.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1223,7 +1223,7 @@
           },
           "title4": "I am a great crewmember – but not such a good CV writer.  Will you write my CV for me?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Nope.  We’ll give you tips that we’ve gleaned over the years – go to our “tips” page, but we will not write your CV.  In fact, it is important that your CV be in your voice, so we will not correct spelling or grammar either.</span><br>",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Nope.  We’ll give you tips that we’ve gleaned over the years – go to our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\" class=\"text-info\">TIPS</a> page, but we will not write your CV.  In fact, it is important that your CV be in your voice, so we will not correct spelling or grammar either.</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1471,9 +1471,9 @@
               "family": "et-line"
             }
           },
-          "title1": "How come I don’t have to fill in forms to register with you?",
+          "title1": "I don't see any Seasonal or Temporary jobs on your site",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Easy enough – that’s why we ask for your CV.  You have already taken the time to answer (almost) everything we would ask in a form – where did you work and when, what are your licenses and qualifications, etc.  Why would anybody ask for your CV AND for you to then re-type it again?  Seems like a waste of your time.  If you want to register right now (because you are so entranced with our process) just click <a href=\"mailto:webpage@preferredcrew.com?subject=I%20would%20like%20to%20register\" class=\"text-primary\">HERE</a> and send us your CV, License, ENG1, STCW and any references you want us to have.<br>",
+          "caption1": "The truth is we get maybe one or two of these a season - at most. &nbsp;So when we get a short term spot, we bring it to full time crew who might be looking for some fill in work. &nbsp;We don't work with part time or seasonal jobs or crew.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1487,7 +1487,7 @@
           },
           "title2": "What happens after I send you my documents?",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We read your CV completely, examine and confirm your documents then, if we believe we can represent you to clients, we will either accept you application as complete or we may ask you for additional information and request a time to chat.&nbsp;<br>",
+          "caption2": "We read your CV completely, examine and confirm your documents then, if we believe we can represent you to clients, we will either accept you application as complete or we may ask you for additional information and request a time to chat.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2319,7 +2319,7 @@
           },
           "title1": "Deck",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vR4UUz0v73FVaWiHRoVeGD_N51eOWyIsD5PkM0QBsJ2Ry1hhyA2ZpVFxds514xhRUdS--EnZstjgiZJ/pub\" target=\"_blank\" class=\"text-primary\">Second Officer / Bosun 60m - ASAP #1913</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSaSgUNz-UqWQW7iJ5zVtZMgLIeHdGIrktbWIZTyz6XcSX-3UpO9ojtkI8ftNmn998clKLJLYBRZTj_/pub\" target=\"_blank\" class=\"text-primary\">Deckhand 60m - ASAP #1914</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSxtac97qlKW2hdU9oBox3w42QbqynD1p87pZvrY13DD_QQD37TsQ4Xf-fpnToGP-LUF2_m8KugvNVn/pub\" target=\"_blank\" class=\"text-primary\">Second Officer 55m - May 29 2020 #1940</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQHUHHz-zO11ux1X2RLabIkgTTJttWiDl_JY61TRDCzVdJBkmM2ecdYq33MdwsUN2Qk9sfODurRj9ur/pub\" target=\"_blank\" class=\"text-primary\">Second Officer 70m - June 1 2020 #1937</a><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTgxrTzXGIgtQypRn8oN7wUCm-h5dW15m7NfceSMEjN1_Q2-W2uMGilyhQnq646eK8sLJKybQ65dRFg/pub\" target=\"_blank\" class=\"text-primary\">Mate / Steward(ess) US - 24m - Start Date TBD #1894</a><a href=\"https://docs.google.com/document/d/e/2PACX-1vTgxrTzXGIgtQypRn8oN7wUCm-h5dW15m7NfceSMEjN1_Q2-W2uMGilyhQnq646eK8sLJKybQ65dRFg/pub\" target=\"_blank\" class=\"text-primary\"></a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRpgx5erdhNad_7Nrg2B9ZJgouU9QC-vnIaF4QXFo7XmXRr5bXjtBmQTbdZBFfYMlzXMmWrvAwQesTA/pub\" target=\"_blank\" class=\"text-primary\">Captain / Stewardess Team (US) - 35m+ - &nbsp;Start Date TBD #1890</a><a href=\"https://docs.google.com/document/d/e/2PACX-1vRpgx5erdhNad_7Nrg2B9ZJgouU9QC-vnIaF4QXFo7XmXRr5bXjtBmQTbdZBFfYMlzXMmWrvAwQesTA/pub\" target=\"_blank\" class=\"text-primary\"></a><br><br></p><p><br><br><br><br><br><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSmGOA_-xDy467Xlec9QkxstrdBQO33gqWLbL96uFi0yRaI7ltxOertNzvlhY9VCh0_pGQLyyddBGIO/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vRvtP4NT6EntsLmYi1s05tuPCgeGTBEcgMu0_hhF1WLerPkIA-qH5dgyITvSUTlZKD0ZYIrAI8KSH6S/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vQoJEJVYsPW2Kt9ogBYwyx-gwo-n0B8zkqJfitMXjfMfs2iFR5ZDoWzDhgecmHOExNfdYml-GFmgNLK/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vSRxAWp8Npev9zoWW_2d5Vb2-jg7tFpumxsU85VxRdkvHXLHKL5ksczCcYHzP-21hkvC-R1RSwBkQGL/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vTcZcabQi6BFjQe96PPpjyY9ydyRqOlRx1cdM0MIg6a0KPHZLsoRJVsma5dvcAexhWO1ddk-RCsiB1_/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><br></p><p></p>",
+          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vR4UUz0v73FVaWiHRoVeGD_N51eOWyIsD5PkM0QBsJ2Ry1hhyA2ZpVFxds514xhRUdS--EnZstjgiZJ/pub\" target=\"_blank\" class=\"text-primary\">Second Officer / Bosun 60m - ASAP #1913</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSaSgUNz-UqWQW7iJ5zVtZMgLIeHdGIrktbWIZTyz6XcSX-3UpO9ojtkI8ftNmn998clKLJLYBRZTj_/pub\" target=\"_blank\" class=\"text-primary\">Deckhand 60m - ASAP #1914</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSxtac97qlKW2hdU9oBox3w42QbqynD1p87pZvrY13DD_QQD37TsQ4Xf-fpnToGP-LUF2_m8KugvNVn/pub\" target=\"_blank\" class=\"text-primary\">Second Officer 55m - May 29 2020 #1940</a><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTgxrTzXGIgtQypRn8oN7wUCm-h5dW15m7NfceSMEjN1_Q2-W2uMGilyhQnq646eK8sLJKybQ65dRFg/pub\" target=\"_blank\" class=\"text-primary\">Mate / Steward(ess) US - 24m - Start Date TBD #1894</a><a href=\"https://docs.google.com/document/d/e/2PACX-1vTgxrTzXGIgtQypRn8oN7wUCm-h5dW15m7NfceSMEjN1_Q2-W2uMGilyhQnq646eK8sLJKybQ65dRFg/pub\" target=\"_blank\" class=\"text-primary\"></a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRpgx5erdhNad_7Nrg2B9ZJgouU9QC-vnIaF4QXFo7XmXRr5bXjtBmQTbdZBFfYMlzXMmWrvAwQesTA/pub\" target=\"_blank\" class=\"text-primary\">Captain / Stewardess Team (US) - 35m+ - &nbsp;Start Date TBD #1890</a><a href=\"https://docs.google.com/document/d/e/2PACX-1vRpgx5erdhNad_7Nrg2B9ZJgouU9QC-vnIaF4QXFo7XmXRr5bXjtBmQTbdZBFfYMlzXMmWrvAwQesTA/pub\" target=\"_blank\" class=\"text-primary\"></a><br><br></p><p><br><br><br><br><br><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSmGOA_-xDy467Xlec9QkxstrdBQO33gqWLbL96uFi0yRaI7ltxOertNzvlhY9VCh0_pGQLyyddBGIO/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vRvtP4NT6EntsLmYi1s05tuPCgeGTBEcgMu0_hhF1WLerPkIA-qH5dgyITvSUTlZKD0ZYIrAI8KSH6S/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vQoJEJVYsPW2Kt9ogBYwyx-gwo-n0B8zkqJfitMXjfMfs2iFR5ZDoWzDhgecmHOExNfdYml-GFmgNLK/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vSRxAWp8Npev9zoWW_2d5Vb2-jg7tFpumxsU85VxRdkvHXLHKL5ksczCcYHzP-21hkvC-R1RSwBkQGL/pub\" target=\"_blank\" class=\"text-primary\"><br></a><a href=\"https://docs.google.com/document/d/e/2PACX-1vTcZcabQi6BFjQe96PPpjyY9ydyRqOlRx1cdM0MIg6a0KPHZLsoRJVsma5dvcAexhWO1ddk-RCsiB1_/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><br></p><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2334,7 +2334,7 @@
           },
           "title2": "Engine",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<a href=\"https://docs.google.com/document/d/e/2PACX-1vR0p0PrescM_hUSEXfNb8biHmgyCEmApG7VAls9InOSKWogDvqpODMfYfbjTldUYPwD_YPd8Hy5jV9h/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Engineer 30m - June 1 2020 #1916</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vS6kBb9RcLVWsJvjElJV9OBjT-PVTi7RuIQbqv9JnEn0g2ydwGZ7_Ye1TMpQQVlBgpj8g2vJ_Yt_oG2/pub\" target=\"_blank\" class=\"text-primary\">Second Engineer 65m - June 1 2020 #1938</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSzl_qaHpiDlOhb6MPHjqSbuqZckUIxtbpOFWeJYPujnVaBMRqAhg8Ok2uu_BnxsnwKvC4hxakOx4G4/pub\" target=\"_blank\" class=\"text-primary\">ETO 70m - May 15 2020 #1935</a><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRMazZ5pegYEzBqrzi-AWbcXbL79QNVlD8p95wJD-shJWuyg-m0BBF96dHUcqqr6KyAJE32Qjm4TRmA/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRMazZ5pegYEzBqrzi-AWbcXbL79QNVlD8p95wJD-shJWuyg-m0BBF96dHUcqqr6KyAJE32Qjm4TRmA/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><br><br>",
+          "caption2": "<a href=\"https://docs.google.com/document/d/e/2PACX-1vR0p0PrescM_hUSEXfNb8biHmgyCEmApG7VAls9InOSKWogDvqpODMfYfbjTldUYPwD_YPd8Hy5jV9h/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Engineer 30m - June 1 2020 #1916</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSzl_qaHpiDlOhb6MPHjqSbuqZckUIxtbpOFWeJYPujnVaBMRqAhg8Ok2uu_BnxsnwKvC4hxakOx4G4/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">ETO 70m - May 15 2020 #1935</a><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRMazZ5pegYEzBqrzi-AWbcXbL79QNVlD8p95wJD-shJWuyg-m0BBF96dHUcqqr6KyAJE32Qjm4TRmA/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRMazZ5pegYEzBqrzi-AWbcXbL79QNVlD8p95wJD-shJWuyg-m0BBF96dHUcqqr6KyAJE32Qjm4TRmA/pub\" target=\"_blank\" class=\"text-primary\"><br></a><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

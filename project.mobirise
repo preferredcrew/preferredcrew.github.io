@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "index.html",
+    "currentPage": "jobs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 94,
+    "uniqCompNum": 96,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1547,6 +1547,26 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -2349,7 +2369,7 @@
           },
           "title3": "Interior<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ3LOXBX8Krc-i4Oju9aJehbNWS-WzqRLkvrx5vdNfGz2HARZ4FkKotzkJHGyzqfdjpjC4aUIiwJ8xN/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Junior Stew - 70m - Oct #1994</a><br></p><p><br><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTftW3JAnUbwOVB0ay456JEsbfHz-_bPuazaWtgY2H7N4FrKnOBPWu_pSzOId2vSpA5R_n-POBdobrm/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Marine Technician - Fort Lauderdale #1966</a><br></p><p><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br><br><br></span></p><p><br></p>",
+          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQAEz8RthR4qGclEBexOaFbKc8Ra1AYjSwQNjYW2uo65xAqnp12_Zp2r65Tdu4uDFGkv9neMhbFg4Yp/pub\" target=\"_blank\" class=\"text-primary\">Third Stew - 40m - ASAP #1997</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ3LOXBX8Krc-i4Oju9aJehbNWS-WzqRLkvrx5vdNfGz2HARZ4FkKotzkJHGyzqfdjpjC4aUIiwJ8xN/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Junior Stew - 70m - Oct #1994</a></p><p><br><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTftW3JAnUbwOVB0ay456JEsbfHz-_bPuazaWtgY2H7N4FrKnOBPWu_pSzOId2vSpA5R_n-POBdobrm/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Marine Technician - Fort Lauderdale #1966</a><br></p><p><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br><br><br></span></p><p><br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {

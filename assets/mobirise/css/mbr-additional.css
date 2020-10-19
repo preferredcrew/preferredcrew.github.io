@@ -706,6 +706,10 @@ h6,
 #features2-14 .mbr-cards-col:nth-child(even) .card-text {
   color: #28324e;
 }
+#header3-2n .mbr-section-title,
+#header3-2n .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-26 P {
   color: #28324e;
 }

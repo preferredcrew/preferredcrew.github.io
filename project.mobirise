@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,10 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 96,
+    "uniqCompNum": 106,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -481,52 +481,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#28324e"
-            },
-            "STRONG": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "contacts1-26",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#000000"
-            }
-          },
-          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
-          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com\">info@preferredcrew.com</a><br>",
-          "text3": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-d",
           "_params": {
@@ -629,6 +583,182 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "features1-2p",
+          "_params": {
+            "columnsColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/200x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Jovana Dulovic",
+          "subtitle1": "Associate",
+          "caption1": "When Preferred Crew decided to expand into Europe our concern was finding a great recruiter who would understand our culture.  Yachting we can teach, but somebody who can have fun with the work….that was something we knew was a must.<br><br>Jovana Dulovic was a hit from the first introduction.  A solid, experienced land-based recruiter, Jovana’s background combined traditional recruitment with personality and psychological underpinnings helping people find that “right fit.”  Jovana listens to candidates and is happy going “off script” getting a more holistic view of the candidate – not just a page of facts. <br> <br>Excited about Jumping into yachting, Jovana quickly found the amazing variety of people engaging.  Exploring crew perspectives, expectations and preferences – She was stunned at the level of excitement, adventure and incredible levels of service that define the very best in yacht crew.<br><br>Jovana’s style can only be described as highly professional and results oriented, but peppered with solid encouragement and an informal, conversation style, she is described as “easy to talk to.”<br>.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bryan1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Bryan Jasper Bautista",
+          "subtitle2": "Assistant",
+          "caption2": "Bryan Jasper Bautista was a travel consultant for several years of his professional life under the most popular travel companies of the U.S. and Australia. After joining a cruise company as a specialist, he loved the idea of cruising. He had been a freelance travel consultant and had been working virtually utilizing and continuously developing the skills he gained from the experience across the other industries he worked before.<br><br>One of his values is lifelong learning. To know little things everyday is as important as having learned from universities and institutions. Working with Preferred Crew has been very meaningful for him and has been picking up grains of knowledge here and there. He has been very appreciative of how Preferred Crew gives worth to each of their applicants.<br><br>Being part of the team is precious for him and would like to encourage every applicant to be honest and sincere. These would lay a perfect foundation of our relationship and help you grow and succeed in this industry.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            },
+            "STRONG": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "contacts1-26",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
+          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com\">info@preferredcrew.com</a><br>",
+          "text3": ""
         }
       ]
     },

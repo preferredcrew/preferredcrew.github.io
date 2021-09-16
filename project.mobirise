@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -133,7 +133,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Simple Registraion Process:<br><br>",
+          "title": "Simple Registration Process:<br><br>",
           "text": "<ul><li>We accept candidate registration for qualified candidates applying for an open position and for candidates referred by an existing crewmember with us.</li><li>To apply for a position for which you are qualified, send your CV to the email address in the Job Description.</li><li>If you are being referred to us by an existing Preferred Crewmember, please send your CV and the name of the Crewmember who is referrring you to <a href=\"mailto:webpage@preferredcrew.com\">CLICK HERE</a> for our team to immediately review.</li></ul><p>Although we would love to be able to assist everybody in their career path, we focus on long term yachting professionals - and will not be able to respond if your documents do not meet the standards on the CREW page.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },

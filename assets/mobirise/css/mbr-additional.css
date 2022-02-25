@@ -650,6 +650,14 @@ h6,
 #msg-box8-m .lead H1 {
   color: #ffffff;
 }
+#msg-box3-3d .mbr-section-title,
+#msg-box3-3d p {
+  color: #000;
+}
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
+  text-align: center;
+}
 #features2-r .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #28324e;
 }
@@ -988,6 +996,7 @@ h6,
 #header3-1t SMALL {
   color: #ffffff;
   text-align: right;
+  font-size: 22px;
 }
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
@@ -1007,17 +1016,6 @@ h6,
 #header3-24 .mbr-section-title,
 #header3-24 .mbr-section-subtitle {
   text-align: center;
-}
-#header3-23 .mbr-section-title,
-#header3-23 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-23 H3 {
-  font-size: 24px;
-  color: #28324e;
-}
-#header3-23 SMALL {
-  color: #28324e;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {

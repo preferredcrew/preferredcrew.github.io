@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 123,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -38,7 +38,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -86,8 +87,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "The Agency For Professional Crew",
-          "text": "<p><b>Welcome</b></p><p></p>",
+          "title": "Treating Yacht Crew with Respect",
+          "text": "<p><b>We work with people, not data</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -134,7 +135,7 @@
             "showButton": false
           },
           "title": "Simple Registration Process:<br><br>",
-          "text": "<ul><li>We accept candidate registration for qualified candidates applying for an open position and for candidates referred by an existing crewmember with us.</li><li>To apply for a position for which you are qualified, send your CV to the email address in the Job Description.</li><li>If you are being referred to us by an existing Preferred Crewmember, please send your CV and the name of the Crewmember who is referrring you to <a href=\"mailto:webpage@preferredcrew.com\">CLICK HERE</a> for our team to immediately review.</li></ul><p>Although we would love to be able to assist everybody in their career path, we focus on long term yachting professionals - and will not be able to respond if your documents do not meet the standards on the CREW page.</p>",
+          "text": "<ul><li>We welcome qualified crew applying for any open position in our <a href=\"jobs.html\">JOBS</a> page</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Crew referred to us by an existing Preferred Crewmember, please send your CV and the name of the Crewmember who is referrring you to </span><a href=\"mailto:referredcrew@preferredcrew.com\" style=\"font-size: 1.07rem; background-color: rgb(242, 242, 242); line-height: 1.5;\">CLICK HERE</a><span style=\"font-size: 1.07rem; line-height: 1.5;\"> for our team to immediately review.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Yacht crew without a referral please <a href=\"crew.html\">CLICK HERE</a> to send your CV to us<br></span><br></li></ul><p>Although we would love to be able to assist everybody in their yachting career path, we focus on long term yachting professionals - feel free to review our requirements on the <a href=\"crew.html\">CREW</a> page.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -242,7 +243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -298,7 +299,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 5
       },
       "components": [
         {
@@ -349,7 +351,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "The Agency For Professional Crew<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">Our team</span><br>",
+          "title": "Treating Crew with Respect<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">You have given us your background - here is ours....</span><br>",
           "text": "<p></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -410,7 +412,7 @@
           },
           "title1": "Ian Pelham",
           "subtitle1": "Director",
-          "caption1": "Ian Pelham started placing crew members over 20 years ago with a small cruise line in South Florida.  As the owner’s crewing manager, he hired the crew to join the ships. His very first hires, two Stewardesses, were hired on Friday, flew to the ship on Saturday and were both sent home on Sunday.  A phone call from the Purser first thing on Monday set the foundation for Ian’s philosophy of crewing:  The opinions of the crew manager, crew agent or interviewer do not matter.  Our job is to listen.  Listen to the needs of the Owner, the Captain, and the Yacht.  Listen to the goals and aspirations of the crew members.  Then, with a bit of work, make the introduction that will allow both sides to get what they need and want.<br><br>Ian founded Preferred Crew with that philosophy as our driving force.  Unlike most crewing houses, we do not ask crew members to fill in endless online profiles looking for a fast placement.  Instead we take the time to read the CVs / Resumes of the people introduced to us and then we schedule an appointment to meet.  During that meeting (which can easily run for an hour or more) we listen to the career and life goals of each person.  If both sides believe that Preferred Crew can help the crew member achieve these goals, we work with them throughout their entire career.   Our belief is that a long term relationship with each person is well worth the extra time this personalized service requires.",
+          "caption1": "Ian started placing crew members over 20 years ago with a small cruise line in South Florida.  As the owner’s crewing manager, he hired the crew to join the ships. His very first hires, two Stewardesses, were hired on Friday, flew to the ship on Saturday and were both sent home on Sunday.  A phone call from the Purser first thing on Monday set the foundation for Ian’s philosophy of crewing:  The opinions of the crew manager, crew agent or interviewer do not matter.  Our job is to listen.  Listen to the needs of the Owner, the Captain, and the Yacht.  Listen to the goals and aspirations of the crew members.  Then, with a bit of work, make the introduction that will allow both sides to get what they need and want.<br><br>Ian founded Preferred Crew with that philosophy as our driving force.  Unlike most crewing houses, we do not ask crew members to fill in endless online profiles looking for a fast placement.  Instead we take the time to read the CVs / Resumes of the people introduced to us and then we schedule an appointment to meet.  During that meeting (which can easily run for an hour or more) we listen to the career and life goals of each person.  If both sides believe that Preferred Crew can help the crew member achieve these goals, we work with them throughout their entire career.   Our belief is that a long term relationship with each person is well worth the extra time this personalized service requires.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -426,7 +428,7 @@
           },
           "title2": "Nelly Greene",
           "subtitle2": "Associate",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Nelly Greene has a long and storied history in yachting.  First as an onboard crew member, Nelly knows first-hand what it is like to be away from your family and friends.  She has lived in the small, cramped crew quarters while working long hours on the most exciting of tasks (including heads and beds as well as varnishing and getting that window just a little more spotless).  She also understands the draw to the sea, working on these floating marvels and exploring places both near and far.</span><br><br>Now as a crewing agent, Nelly receives her satisfaction from introducing the right crew candidate to the right yachting program.  She takes a serious interest in the individual on both up top and down below.  She wants to know about your likes and dislikes, where do you plan on going from here and, best case scenario, what are you looking for.<br><br>     Her style has been described as in-depth, caring, brusque and hard.  All true.  Nelly will push a candidate to explore what they are truly seeking from their time with yachts, but one thing is absolutely true – no crew member will ever be treated like a faceless number with Nelly.<br>",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Nelly has a long and storied history in yachting.  First as an onboard crew member, Nelly knows first-hand what it is like to be away from your family and friends.  She has lived in the small, cramped crew quarters while working long hours on the most exciting of tasks (including heads and beds as well as varnishing and getting that window just a little more spotless).  She also understands the draw to the sea, working on these floating marvels and exploring places both near and far.</span><br><br>Now as a crewing agent, Nelly receives her satisfaction from introducing the right crew candidate to the right yachting program.  She takes a serious interest in the individual on both up top and down below.  She wants to know about your likes and dislikes, where do you plan on going from here and, best case scenario, what are you looking for.<br><br>     Her style has been described as in-depth, caring, brusque and hard.  All true.  Nelly will push a candidate to explore what they are truly seeking from their time with yachts, but one thing is absolutely true – no crew member will ever be treated like a faceless number with Nelly.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -582,7 +584,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -768,7 +770,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -816,9 +819,64 @@
             "showText": true,
             "showButton": false
           },
-          "title": "The Agency For Professional Crew<br><br>",
-          "text": "<p><b style=\"line-height: 1.5;\">Welcome to our Crew Page. </b></p><p><b style=\"line-height: 1.5;\"> A number of people have asked us to present ourselves in an easier to understand format&nbsp;</b><b style=\"line-height: 1.5;\">- so we asked you to ask us questions -&nbsp;</b><b style=\"line-height: 1.5;\">the most common are below:</b></p><p></p>",
+          "title": "Treating Crew with Respect<br><br>",
+          "text": "<p><b>Understanding what you have invested in your career</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "As professional yacht crew you have:",
+          "text": "<p>Solid yachting experience<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">A history of making commitments<br>Verifiable &nbsp;references<br>STCW Basic Training<br>Medical Fit for Duty<br>Appropriate visas<br>Officers: License appropriate for the position you seek</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If this defines you, and to explore if we can be of assistance in your career - send your CV to <a href=\"mailto:NewCrew@Preferredcrew.com\">NewCrew@Preferredcrew.com</a>.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Crew FAQs",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "features1",
@@ -873,7 +931,7 @@
           },
           "title1": "What kind of crew do you recruit?",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">We recruit for every type of position aboard yachts.  But don’t let us oversell ourselves.  If we are going to be completely upfront about our success, we have to outline that more than 90% of the boats we work with are seeking full time crew (12 month contracts, not rotation, not freelance) to join motor yachts between 24m and 100m that move a lot!  When we say move, they move, they are not based in one port.  They are located truly all over the world, but they do move. If this is not your career path, &nbsp;we are probably not the right agency for you.</span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">The best term is - Professional. &nbsp;Our clients are seeking crew with a proven history of working on yachts, appropriate documents (training, licenses, references, etc.. &nbsp;We recruit for every position aboard the yachts. &nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">We do not recruit for crew seeking temporary or freelance work,.</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -915,7 +973,7 @@
           },
           "title4": "Do you work with new or “green” crew?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Yes.  As long as you have done your homework and fully grasp what is required of you when you go aboard.  With that, you must have a CV/Resume that clearly communicates how you are already skilled with the duties you will have to perform aboard.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Feel free to review our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\" class=\"text-info\">TIPS</a> page if you have a doubt about what we would need to see in a Entry Level CV.<br></span><br>",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Only if the green crew are referred in by yacht crew we already know..&nbsp;<br><br>Our best advise to green crew - get yourself to a yachting hot-spot, work very, very hard and make a great impression. &nbsp;This will serve you better than any other option.<br></span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1019,7 +1077,7 @@
           },
           "title1": "What about teams?  Other people are telling me that I have to split from my partner to get a job.",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We will never promise you a job – we don’t own any yachts and therefore cannot offer any jobs – and team positions are much less common than they used to be, but if you have a history of working together well, and at least one of you is an officer, we can consider you.",
+          "caption1": "We will never promise you a job – we don’t own any yachts and therefore cannot offer any jobs – and team positions are much less common than they used to be, but if you have a history of working together well, and at least one of you is an officer, we may be able to assist you.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1047,7 +1105,7 @@
           },
           "title3": "What about rotation positions?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We don’t speak for the entire industry – we are a small agency with a particular client base.  We see very, very few rotation positions.  If you are seeking rotation you really are going to want to work with your other agents or networks because we probably will not be calling very often.&nbsp;<br>",
+          "caption3": "We don’t speak for the entire industry – we are a small agency with a particular client base.  We see very, very few rotation positions.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1179,7 +1237,7 @@
           },
           "title2": "I’ve seen that other agencies post the wages for jobs – you don’t.  Why not?",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We don’t share wages as we do not believe a crew agent adds any value to the negotiation process.  AFTER both sides have met, discussed the position, the requirements, the expectations, etc., then they should have a discussion regarding fair and appropriate wages.  From our side, we require both candidates and programs to give us their expectations as we will not bring the two sides together if there is no chance of them coming to an agreement on wages.  If a client requests that we post the wage for the position (sometimes happens for deckhand or stewardess positions) then we will.<br>",
+          "caption2": "We don’t share wages as we do not believe a crew agent adds any value to the negotiation process.  AFTER both sides have met, discussed the position, the requirements, the expectations, etc., then they should have a discussion regarding fair and appropriate wages.  From our side, we require both candidates and programs to give us their expectations as we will not bring the two sides together if there is no chance of them coming to an agreement on wages.  If a client requests that we post the wage for the position (sometimes happens for deckhand or stew positions) then we will.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1207,7 +1265,7 @@
           },
           "title4": "If you send me a job and I don’t like the sound of it – do I have to go on the interview to stay in your good graces?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I love this question!  The answer is no.  You do not.  It is not your job to stay in our good graces.  If we send a job that does not appeal to you, then we are either pushing you too hard, or we have misunderstood something about your career path.  Please tell us “no” but also please tell us why so we can learn from our mistakes.<br>",
+          "caption4": "You do not.  It is not your job to stay in our good graces.  If we send a job that does not appeal to you, then we are either pushing you too hard, or we have misunderstood something about your career path.  Please tell us “no” but also please tell us why so we can learn from our mistakes.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1337,9 +1395,9 @@
               "family": "et-line"
             }
           },
-          "title3": "No, I mean, how do I get you to stop contacting me?",
+          "title3": "How do I get you to stop contacting me?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Oh, I’m crushed.  Not to worry, just ask us to stop.  We’d hate to see you leave our group, but we get it that we are not for everybody.  And please know that we are only going to contact you a few times a year to check in with you or to bring you opportunities, or to ask you for references on people who give us your name as a references.  We will not bombard you with useless email or phone calls.  We all hate SPAM.<br>",
+          "caption3": "Just ask us to stop.  We’d hate to see you leave our group, but we get it that we are not for everybody.  And please know that we are only going to contact you a few times a year to check in with you or to bring you opportunities, or to ask you for references on people who give us your name as a references.  We will not bombard you with useless email or phone calls.  We all hate SPAM.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1353,7 +1411,7 @@
           },
           "title4": "I am a great crewmember – but not such a good CV writer.  Will you write my CV for me?",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Nope.  We’ll give you tips that we’ve gleaned over the years – go to our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\" class=\"text-info\">TIPS</a> page, but we will not write your CV.  In fact, it is important that your CV be in your voice, so we will not correct spelling or grammar either.</span><br>",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">No.  We’ll give you tips that we’ve gleaned over the years – go to our <a href=\"http://www.preferredcrew.com/tips.html\" target=\"_blank\" class=\"text-info\">TIPS</a> page, but we will not write your CV.  In fact, it is important that your CV be in your voice, so we will not correct spelling or grammar either.</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1455,7 +1513,7 @@
               "family": "et-line"
             }
           },
-          "title1": "Ok – so, checking in.  How do I check in with you?",
+          "title1": "How do I check in with you?",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "You don’t.  As far as we are concerned, as long as you don’t tell us to remove your file, you are interested in our bringing you options that are in line with your career goals.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1485,7 +1543,7 @@
           },
           "title3": "Will you bring me jobs even after you place me?",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "No.  That is just not right.  If we place you, we collect a fee from that owner.  It would not be cool for us to bring you a job until after you give notice to that program.  We will stay in contact, but not bring you jobs until you give notice.<br>",
+          "caption3": "No.  That is just not right.  If we place you, we collect a fee from that owner.  It would not be honest for us to bring you a job until after you give notice to that program.  We will stay in contact, but not bring you jobs until you give notice.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1847,7 +1905,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         }
       ]
     },
@@ -1857,7 +1915,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 4
       },
       "components": [
         {
@@ -1905,8 +1964,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">The Agency For Professional Crew</span><br>",
-          "text": "<p><b style=\"line-height: 1.5;\">Welcome to our Clients Page.</b></p><p></p>",
+          "title": "<span style=\"letter-spacing: -1px; line-height: 1.1;\">Treating Crew with Respect</span><br>",
+          "text": "<p><b style=\"line-height: 1.5;\">The best candidates are those for whom respect matters</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2300,7 +2359,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         }
       ]
     },
@@ -2310,7 +2369,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -2358,8 +2418,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "The Agency For Professional Crew<br><br>",
-          "text": "<p><b style=\"line-height: 1.5;\">Welcome to our Jobs Page.</b></p><p><b style=\"line-height: 1.5;\"><br></b></p><p></p>",
+          "title": "Treating Crew with Respect<br><br>",
+          "text": "<p><b style=\"line-height: 1.5;\">Your career is real, not a reality show.</b></p><p><b style=\"line-height: 1.5;\"><br></b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2384,7 +2444,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "<font face=\"Raleway, sans-serif\"><i>We are currently recruiting for all onboard positions with immediate openings for:</i></font>",
+          "title": "<font face=\"Raleway, sans-serif\"><i>We are currently recruiting for all yachting positions with immediate openings for:</i></font>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -2470,7 +2530,7 @@
           },
           "title1": "Deck",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQIiYy7jvYb7XrAiNao2Sr_sZ1JFnm0RC_EOsG4bgtt6JzCFjf_vbQsbuW1PpSKGlSBHPfCKhhA244K/pub\" target=\"_blank\" class=\"text-primary\">Captain Team 37m #2242</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSIatcCUFdvGjrpEA33nstfeU8YVi8WeFMV7NrPhrmW7onbHJZESi6X2ThYT-1JX91UukhNgy7w1Rh1/pub\" target=\"_blank\" class=\"text-primary\">Captain 35m #2244</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQfwPmfQkTdU2fyvZoTU8Cux_kvj24clrx7YbciXciQPHxpjoHIYLG8iID8p6R9eIXfDLxZO7rntxWF/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain Team 28m #2243</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWwI_-3s-kD7p5_M-MsM7r_GWTNZTNH29aSBChmxaQJJGFZJuIBHc2wKrUrN1MNEi45rAfI_kWMkuv/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 41m #2214</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTz2Mnufa_KURREOSZuGqvI_QjtCS1Jak16rqxzuUUdF9RvDbri-oZO1rzfEkeyHJkLo8bNXa10x-j0/pub\" target=\"_blank\" class=\"text-primary\">First Mate 40m #2238</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQCb08_iPh-kLaLE6mg23ZZppiAOIClW6v3lxFdDMNlPlDoBABMBza_Lfkbf0_E5MiM1HmqpjNOs2B2/pub\" target=\"_blank\" class=\"text-primary\">First Mate 38m #2248</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSGenq7mob-cnoPfJDeGVCA4F5OzrDGuSeRM0ZV-SqBnAkEqXXfoEtOx5uNADCRl9ZkxzP5qmeMaq6y/pub\" target=\"_blank\" class=\"text-primary\" style=\"text-align: right; line-height: 1.5;\">First Mate 26m #2229 - Local Fort Lauderdale / go home at night position</a><br></p><p><span style=\"line-height: 1.5;\">--<br></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vRRES11-1INtpWbJ32O2FUT32YCQbi11NzcgKHQF0vCsFV5ODJwoqyeVTwWAwz5rxknu0_chdJfed2t/pub\" target=\"_blank\" class=\"text-primary\">Bosun 45m #2249</a><br><span style=\"line-height: 1.5;\">--<br></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vTp9BB8-hKQud_eKxjz5VBnnmvEgUaaARmxxE94XRr1PR1e0FlsGy-OejLTCV5z91fUf9q9GIcmUf6A/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 48m #2173</a><br></p><p></p>",
+          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQIiYy7jvYb7XrAiNao2Sr_sZ1JFnm0RC_EOsG4bgtt6JzCFjf_vbQsbuW1PpSKGlSBHPfCKhhA244K/pub\" target=\"_blank\" class=\"text-primary\">Captain Team 37m #2242</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSIatcCUFdvGjrpEA33nstfeU8YVi8WeFMV7NrPhrmW7onbHJZESi6X2ThYT-1JX91UukhNgy7w1Rh1/pub\" target=\"_blank\" class=\"text-primary\">Captain 35m #2244</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQfwPmfQkTdU2fyvZoTU8Cux_kvj24clrx7YbciXciQPHxpjoHIYLG8iID8p6R9eIXfDLxZO7rntxWF/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain Team 28m #2243</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWwI_-3s-kD7p5_M-MsM7r_GWTNZTNH29aSBChmxaQJJGFZJuIBHc2wKrUrN1MNEi45rAfI_kWMkuv/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 41m #2214</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTz2Mnufa_KURREOSZuGqvI_QjtCS1Jak16rqxzuUUdF9RvDbri-oZO1rzfEkeyHJkLo8bNXa10x-j0/pub\" target=\"_blank\" class=\"text-primary\">First Mate 40m #2238</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQCb08_iPh-kLaLE6mg23ZZppiAOIClW6v3lxFdDMNlPlDoBABMBza_Lfkbf0_E5MiM1HmqpjNOs2B2/pub\" target=\"_blank\" class=\"text-primary\">First Mate 38m #2248</a><br><span style=\"line-height: 1.5;\">--</span><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRRES11-1INtpWbJ32O2FUT32YCQbi11NzcgKHQF0vCsFV5ODJwoqyeVTwWAwz5rxknu0_chdJfed2t/pub\" target=\"_blank\" class=\"text-primary\">Bosun 45m #2249</a><br><span style=\"line-height: 1.5;\">--<br></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vTp9BB8-hKQud_eKxjz5VBnnmvEgUaaARmxxE94XRr1PR1e0FlsGy-OejLTCV5z91fUf9q9GIcmUf6A/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 48m #2173</a><br></p><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2559,7 +2619,8 @@
             },
             "SMALL": {
               "color": "#ffffff",
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "22px"
             }
           },
           "_tags": [
@@ -2574,7 +2635,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "Please be aware that 90% of our clients have yachts that are:<br><br>- Motor Yachts<br>- Moving (without a home base)<br>- Seeking Full Time Crew (not freelance or seasonal)<br>- Between 30 meters and 90 meters<br>- Require us to only consider candidates with a proven history of making commitments.<br>- Commercially registered (and require licenses for the Minimum Manning Document).<br>"
+          "meta": "To be considered for a position, crew must meet all of the requirements in the job post"
         },
         {
           "_styles": {
@@ -2642,33 +2703,6 @@
           },
           "title": "",
           "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "24px",
-              "color": "#28324e"
-            },
-            "SMALL": {
-              "color": "#28324e"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-23",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "If you want to be considered for review with our clients, we have the world’s easiest registration, just go to our <a href=\"index.html\" class=\"text-primary\">HOME</a> page and click the link to email us....  "
         },
         {
           "_styles": {
@@ -2841,7 +2875,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         }
       ]
     },
@@ -2851,7 +2885,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 6
       },
       "components": [
         {
@@ -2902,7 +2937,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "The Agency For Professional Crew<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">Our Tips</span><br>",
+          "title": "Treating Crew with Respect<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">The advice is free - use it as you see fit</span><br>",
           "text": "<p></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3192,7 +3227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         }
       ]
     }

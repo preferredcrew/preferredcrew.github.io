@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 123,
+    "uniqCompNum": 126,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -2530,7 +2530,7 @@
           },
           "title1": "Deck",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQIiYy7jvYb7XrAiNao2Sr_sZ1JFnm0RC_EOsG4bgtt6JzCFjf_vbQsbuW1PpSKGlSBHPfCKhhA244K/pub\" target=\"_blank\" class=\"text-primary\">Captain Team 37m #2242</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQfwPmfQkTdU2fyvZoTU8Cux_kvj24clrx7YbciXciQPHxpjoHIYLG8iID8p6R9eIXfDLxZO7rntxWF/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain Team 28m #2243</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWwI_-3s-kD7p5_M-MsM7r_GWTNZTNH29aSBChmxaQJJGFZJuIBHc2wKrUrN1MNEi45rAfI_kWMkuv/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 41m #2214</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTz2Mnufa_KURREOSZuGqvI_QjtCS1Jak16rqxzuUUdF9RvDbri-oZO1rzfEkeyHJkLo8bNXa10x-j0/pub\" target=\"_blank\" class=\"text-primary\">First Mate 40m #2238</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQCb08_iPh-kLaLE6mg23ZZppiAOIClW6v3lxFdDMNlPlDoBABMBza_Lfkbf0_E5MiM1HmqpjNOs2B2/pub\" target=\"_blank\" class=\"text-primary\">First Mate 38m #2248</a><br><span style=\"line-height: 1.5;\">--</span><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRRES11-1INtpWbJ32O2FUT32YCQbi11NzcgKHQF0vCsFV5ODJwoqyeVTwWAwz5rxknu0_chdJfed2t/pub\" target=\"_blank\" class=\"text-primary\">Bosun 45m #2249</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vT5jh1_Gm4adl4dAnvJVb1en6-f_bZ3t_i-p5HS4ouUP1ZZ6Pmlu7-E5IkDAsJ2a7ypLa4_Ys8dK8yb/pub\" target=\"_blank\" class=\"text-primary\">Bosun 41m #2251</a><br><span style=\"line-height: 1.5;\">--<br></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vTp9BB8-hKQud_eKxjz5VBnnmvEgUaaARmxxE94XRr1PR1e0FlsGy-OejLTCV5z91fUf9q9GIcmUf6A/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 48m #2173</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRTkdENbR7htjrJzLKv-AHrUasOel27uFSCfibef543WGIlh9ImoXP9CAqI_vSHthFOAoiulk0os3VT/pub\" target=\"_blank\">Deckhand 32m #2256 - GREEN CREW</a><br></p><p></p>",
+          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQIiYy7jvYb7XrAiNao2Sr_sZ1JFnm0RC_EOsG4bgtt6JzCFjf_vbQsbuW1PpSKGlSBHPfCKhhA244K/pub\" target=\"_blank\" class=\"text-primary\">Captain Team 37m #2242</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQfwPmfQkTdU2fyvZoTU8Cux_kvj24clrx7YbciXciQPHxpjoHIYLG8iID8p6R9eIXfDLxZO7rntxWF/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain Team 28m #2243</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWwI_-3s-kD7p5_M-MsM7r_GWTNZTNH29aSBChmxaQJJGFZJuIBHc2wKrUrN1MNEi45rAfI_kWMkuv/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 41m #2214</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTz2Mnufa_KURREOSZuGqvI_QjtCS1Jak16rqxzuUUdF9RvDbri-oZO1rzfEkeyHJkLo8bNXa10x-j0/pub\" target=\"_blank\" class=\"text-primary\">First Mate 40m #2238</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQCb08_iPh-kLaLE6mg23ZZppiAOIClW6v3lxFdDMNlPlDoBABMBza_Lfkbf0_E5MiM1HmqpjNOs2B2/pub\" target=\"_blank\" class=\"text-primary\">First Mate 38m #2248</a><br><span style=\"line-height: 1.5;\">--</span><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRRES11-1INtpWbJ32O2FUT32YCQbi11NzcgKHQF0vCsFV5ODJwoqyeVTwWAwz5rxknu0_chdJfed2t/pub\" target=\"_blank\" class=\"text-primary\">Bosun 45m #2249</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTp9BB8-hKQud_eKxjz5VBnnmvEgUaaARmxxE94XRr1PR1e0FlsGy-OejLTCV5z91fUf9q9GIcmUf6A/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 48m #2173</a><br><br></p><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2560,7 +2560,7 @@
           },
           "title3": "Interior<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRZo7UXjB_SlC8Vzu7E5bZdvBCiIGtTOcH6Zl_9zbleQdqiYezR2f6SZdkwfS1S9lFHY2P-rXcBi35I/pub\" target=\"_blank\" class=\"text-primary\">Chief Stew 42m #2237</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRSyiWJnFenDgJ4pnxNCQwdmrUD9xzKN54jIYJc1ZF8sGnGJEodAp6JvkU_1TNualz5l5E7UiTObyZ0/pub\" target=\"_blank\" class=\"text-primary\">Second Stew 50m #2246</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSOkV5eZIhHWP1LzrZdOjgZsWg4zHZzEVh3zOrLwHHIRrRcGY7EFkZ3htNJspgJyFFMga2yy1weLLrm/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Second Stew 40m #2205</a><br><span style=\"line-height: 1.5;\">--</span></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTzjthItKbaYBiIvQoeWMeGwPD3rUtHD9KET9g2fyZZe-ZGYFZjx1OFe9U_3f7sAt2iGVDLYHwVOnWZ/pub\" target=\"_blank\" style=\"line-height: 1.5;\">Stew 46m #2252</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQNuY3nIGU8eS3Qlzzx0O9X5tkrDQwJSW5JuLLDC0ofaMvxCgbUngHK2tUAqA0sQhCvQP8XL7bmZ-ht/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Stew 41m #2230</a></p><p><b style=\"line-height: 1.5;\">Other (ALL)<br></b><br></p>",
+          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRZo7UXjB_SlC8Vzu7E5bZdvBCiIGtTOcH6Zl_9zbleQdqiYezR2f6SZdkwfS1S9lFHY2P-rXcBi35I/pub\" target=\"_blank\" class=\"text-primary\">Chief Stew 42m #2237</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRSyiWJnFenDgJ4pnxNCQwdmrUD9xzKN54jIYJc1ZF8sGnGJEodAp6JvkU_1TNualz5l5E7UiTObyZ0/pub\" target=\"_blank\" class=\"text-primary\">Second Stew 50m #2246</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSOkV5eZIhHWP1LzrZdOjgZsWg4zHZzEVh3zOrLwHHIRrRcGY7EFkZ3htNJspgJyFFMga2yy1weLLrm/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Second Stew 40m #2205</a><br><span style=\"line-height: 1.5;\">--</span></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTzjthItKbaYBiIvQoeWMeGwPD3rUtHD9KET9g2fyZZe-ZGYFZjx1OFe9U_3f7sAt2iGVDLYHwVOnWZ/pub\" target=\"_blank\" style=\"line-height: 1.5;\" class=\"text-primary\">Stew 46m #2252</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQNuY3nIGU8eS3Qlzzx0O9X5tkrDQwJSW5JuLLDC0ofaMvxCgbUngHK2tUAqA0sQhCvQP8XL7bmZ-ht/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Stew 41m #2230</a></p><p><b style=\"line-height: 1.5;\">Other (ALL)<br></b><br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2940,6 +2940,132 @@
           "title": "Treating Crew with Respect<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">The advice is free - use it as you see fit</span><br>",
           "text": "<p></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "features2-3h",
+          "_params": {
+            "columnsColor": "#28324e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "CV tip from Ian",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "If you are writing your CV in English, make sure to use an English spell check, then have a friend review it as well to check the grammar and “voice” of your CV. This is your professional snapshot – not a text to your friends. Avoid jargon and abbreviations!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "Another tip coming soon",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Another tip coming soon<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Another tip coming soon",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Another tip coming soon<br>.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Another tip coming soon",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Another tip coming soon.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features1",

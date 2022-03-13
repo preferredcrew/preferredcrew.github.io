@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2978,7 +2978,7 @@
             "columns": "4",
             "showImages": false,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false
           },
@@ -2993,7 +2993,7 @@
             }
           },
           "title1": "CV tip from Ian",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "March 14, 2002",
           "caption1": "If you are writing your CV in English, make sure to use an English spell check, then have a friend review it as well to check the grammar and “voice” of your CV. This is your professional snapshot – not a text to your friends. Avoid jargon and abbreviations!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -3007,7 +3007,7 @@
             }
           },
           "title2": "Another tip coming soon",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "Soon",
           "caption2": "Another tip coming soon<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -3021,7 +3021,7 @@
             }
           },
           "title3": "Another tip coming soon",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Soon",
           "caption3": "Another tip coming soon<br>.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -3035,7 +3035,7 @@
             }
           },
           "title4": "Another tip coming soon",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "Soon",
           "caption4": "Another tip coming soon.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {

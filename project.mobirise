@@ -2975,7 +2975,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -2992,9 +2992,9 @@
               "family": "et-line"
             }
           },
-          "title1": "Interview tip from Jovana",
-          "subtitle1": "March 18, 2022",
-          "caption1": "Your interview is your first impression, never show up late. It is better to be 15 minutes early than 1 minute late.",
+          "title1": "CV tip from Ian",
+          "subtitle1": "March 21, 2022",
+          "caption1": "When outlining what you did in your previous job, edit yourself – highlight those things that you did in your last job that you will be doing in your next job. Remember, the Captain or Owner wants to see that you solve their needs.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3006,9 +3006,9 @@
               "family": "et-line"
             }
           },
-          "title2": "CV tip from Ian",
-          "subtitle2": "March 14, 2022",
-          "caption2": "If you are writing your CV in English, make sure to use an English spell check, then have a friend review it as well to check the grammar and “voice” of your CV. This is your professional snapshot – not a text to your friends. Avoid jargon and abbreviations!<br>",
+          "title2": "Interview tip from Jovana",
+          "subtitle2": "March 18, 2022",
+          "caption2": "Your interview is your first impression, never show up late. It is better to be 15 minutes early than 1 minute late.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3020,9 +3020,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Another tip coming soon",
-          "subtitle3": "Soon",
-          "caption3": "Another tip coming soon<br>.<br>",
+          "title3": "CV tip from Ian",
+          "subtitle3": "March 14, 2022",
+          "caption3": "If you are writing your CV in English, make sure to use an English spell check, then have a friend review it as well to check the grammar and “voice” of your CV. This is your professional snapshot – not a text to your friends. Avoid jargon and abbreviations!<br>.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {

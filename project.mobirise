@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2992,9 +2992,9 @@
               "family": "et-line"
             }
           },
-          "title1": "CV tip from Ian",
-          "subtitle1": "March 28, 2022",
-          "caption1": "When outlining your qualifications, do not list every class you have ever taken. If you have the Captain 3000 Ticket, you do not need to list the Captain 500, the Chief Mate 3,000 and the OOW. Show the reader that you can communicate the important aspects concisely.",
+          "title1": "Interview tip from Jovana",
+          "subtitle1": "April 1, 2022",
+          "caption1": "During the interview, do not worry about searching for the \"right\" answer. Just answer honestly, be yourself.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3006,9 +3006,9 @@
               "family": "et-line"
             }
           },
-          "title2": "New Tip Soon!",
-          "subtitle2": "Soon - we promise!",
-          "caption2": "New tip soon!<br>",
+          "title2": "CV tip from Ian",
+          "subtitle2": "March 28, 2022",
+          "caption2": "When outlining your qualifications, do not list every class you have ever taken. If you have the Captain 3000 Ticket, you do not need to list the Captain 500, the Chief Mate 3,000 and the OOW. Show the reader that you can communicate the important aspects concisely.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

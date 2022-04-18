@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "tips.html",
+    "currentPage": "jobs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2545,7 +2545,7 @@
           },
           "title2": "Engine",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRG5N05K08iyoQYxT2vcVk3GH_cJ6Q_FAx4Om1sG7AOc5lrXuSSxK1DpsuuE8uGS2xu5-X7PeKVrqfD/pub\" target=\"_blank\" class=\"text-primary\">Second Engineer 60m #2269</a><br>--<br><br>",
+          "caption2": "<br>All of our Engine spots are filled!<br>--<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

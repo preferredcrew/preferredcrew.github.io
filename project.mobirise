@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2975,7 +2975,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "4",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -2992,9 +2992,9 @@
               "family": "et-line"
             }
           },
-          "title1": "Interview Tip from Jovana",
-          "subtitle1": "April 11, 2022",
-          "caption1": "Whether you are having SKYPE/Zoom/Google meet, dress up properly. Avoid hats, sunglasses, sleeveless shirts, belly revealing shirts etc...",
+          "title1": "<p>Interview Tip from Jovana</p>",
+          "subtitle1": "April 18, 2022",
+          "caption1": "If you are a bit nervous, it is ok. Share that with the interviewer or make a joke out of it. Both things can help you feel better and present yourself in the best light.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3007,8 +3007,8 @@
             }
           },
           "title2": "CV Tip from Ian",
-          "subtitle2": "April 8, 2022",
-          "caption2": "There is no “rule” about how long a CV should be….but the rule is “the shorter the better.” Don’t waste time being repetitious. Do not say: “I am seeking a permanent or temporary position as Deckhand on a Charter or Private yacht, Motor or Sail, around 50m bigger or smaller.” When saying “I am seeking a Deckhand position” says the exact same thing.<br>",
+          "subtitle2": "April 15, 2022",
+          "caption2": "Do not forget to add your photo to your CV. In yachting, you will likely be interviewed over the phone before you are called in for a face to face interview. The photo should be how you will appear in your interview, properly dressed, no sunglasses, no drinks in hand, no friends cut out of the photo, no selfies. Proper attire, happy face!<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3020,9 +3020,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Ok - so exactly what documents do you need?",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "1. A Yachting CV<br>2. STCW &nbsp;First Aid<br>3.STCW &nbsp;Fire Fighting<br>4. STCW PSSR<br>5. STCW PST<br>6. Security Training<br>7. Medical Fit for Duty<br>8. Your Largest Deck and/or Engine License<br>9. Any written references you want us to have.<br>&nbsp;Nothing else - please nothing else.....<br>Each document must be under 2 MB and for the love of all that is holy, please scan them so that they are right-side up.<br>.<br>",
+          "title3": "Interview Tip from Jovana",
+          "subtitle3": "April 11, 2022",
+          "caption3": "Whether you are having SKYPE/Zoom/Google meet, dress up properly. Avoid hats, sunglasses, sleeveless shirts, belly revealing shirts etc...<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -3034,9 +3034,9 @@
               "family": "et-line"
             }
           },
-          "title4": "I'm in Fort Lauderdale right now, can I just stop in?",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Unfortunately no. As we are such a small agency, we do require an appointment for any meeting. We don’t accept walk-ins.<br>",
+          "title4": "CV Tip from Ian",
+          "subtitle4": "April 8, 2022",
+          "caption4": "There is no “rule” about how long a CV should be….but the rule is “the shorter the better.” Don’t waste time being repetitious. Do not say: “I am seeking a permanent or temporary position as Deckhand on a Charter or Private yacht, Motor or Sail, around 50m bigger or smaller.” When saying “I am seeking a Deckhand position” says the exact same thing.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -2958,7 +2958,7 @@
               "color": "#28324e"
             }
           },
-          "_anchor": "features2-3m",
+          "_anchor": "features2-3n",
           "_params": {
             "columnsColor": "#28324e",
             "paddingTop": "1",
@@ -2975,7 +2975,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -2992,9 +2992,9 @@
               "family": "et-line"
             }
           },
-          "title1": "<p>Attitude Tip from Jovana</p>",
-          "subtitle1": "May 9, 2022",
-          "caption1": "Reasons for leaving a certain job can be multiple. If asked about that, just be honest. Do not hide it. Sometimes things just don't work, and that is ok. But, the way you talk about it tells a lot. ",
+          "title1": "Interview Tip from Ian",
+          "subtitle1": "May 13, 2022",
+          "caption1": "Sometimes you say the wrong thing.  It happens, especially when we are nervous.  If you need to correct yourself, just do.  Don't try to create a new story around what you accidentally said.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3006,9 +3006,9 @@
               "family": "et-line"
             }
           },
-          "title2": "Attitude Tip from Nelly",
-          "subtitle2": "May 6, 2022",
-          "caption2": "It is a good idea to be proactive when looking for a job. Going to a yachting hub like Antibes, Ft.Lauderdale, or Barcelona are great places for daywork and networking.<br>",
+          "title2": "Attitude Tip from Jovana",
+          "subtitle2": "May 9, 2022",
+          "caption2": "Reasons for leaving a certain job can be multiple. If asked about that, just be honest. Do not hide it. Sometimes things just don't work, and that is ok. But, the way you talk about it tells a lot.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3020,9 +3020,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Reference Tip from Ian",
-          "subtitle3": "May 2, 2022",
-          "caption3": "If you have a bad reference, don't hide it.  Embrace it.  Admit it.  Let your future employer know it is there and what you have learned from the experience..<br>",
+          "title3": "Attitude Tip from Nelly",
+          "subtitle3": "May 6, 2022",
+          "caption3": "It is a good idea to be proactive when looking for a job. Going to a yachting hub like Antibes, Ft.Lauderdale, or Barcelona are great places for daywork and networking.<br>.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -3034,9 +3034,9 @@
               "family": "et-line"
             }
           },
-          "title4": "I'm in Fort Lauderdale right now, can I just stop in?",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Unfortunately no. As we are such a small agency, we do require an appointment for any meeting. We don’t accept walk-ins.<br>",
+          "title4": "Reference Tip from Ian",
+          "subtitle4": "May 2, 2022",
+          "caption4": "If you have a bad reference, don't hide it. Embrace it. Admit it. Let your future employer know it is there and what you have learned from the experience.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {

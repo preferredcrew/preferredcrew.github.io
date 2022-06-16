@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2530,7 +2530,7 @@
           },
           "title1": "Deck",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQaFYt3gemP8edCzvQuR6xDXPwb-s9Jb0TnLBb7aYQE8ym9t2JAfZZvsji75YhjfvkcVtlO6bjUVDWr/pub\" target=\"_blank\" class=\"text-primary\">Captain 40m #2323</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTUQCVL9qkOn0i6VOO0dE5_2-1CytLn2uf9YjVbhdAvEmxGLGaUX-u8tBn-Bf_oWsSznSYJAMlmeYUk/pub\" target=\"_blank\" class=\"text-primary\">Captain 39m #2317</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTo32fuiYUQ5R8Qorl_Pm7m9r3hBFxxCeQ1FwWSjZ4aIa51n801XV6kufh8QXYLr3BwPWB129YuAtCA/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain 37m #2297</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSoUNTVujE6FUYQze0Rc8jpgqlpJGZxW3dmznWOBavSqLwI7n23HvK447plCaqHTv05IKI3U0RLPDB1/pub\" target=\"_blank\" class=\"text-primary\">Chief Officer 55m Rotation #2282</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTXW_V8ar5TKOsvb7GRe-I6B7ETa_u7DX27Mf1x45H8j5lNqp2IyAey75VbxmtGP7825nhCD-1WqNKE/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 38m Great Seatime #2287</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQrPQBquelg7TjIK29r2EcMYDBbzgrjZw8iymUruXA60YIHCJUhqRsXkJIogBp36C_0GJD1TRBLcPsJ/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 38m #2276</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQmEXNfm2MVrAtAEmeIAk9004HymAfAw1TmVOGJEbq04E1qA1f-zOpnaNcLbxdVlOgel7pddZi0OBvt/pub\" target=\"_blank\" class=\"text-primary\">Mate / Engineer 37m #2294</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTr1z0fyT-5nldeDexSswcFvfagONoxnla0VWO55-YzmSdxkEPKsZo985iwxorv-NL-nnEGFEOmUd6U/pub\" target=\"_blank\" class=\"text-primary\">Second Officer 63m #2310</a><br>--<br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSaFEddLjrkd0aiAwcTO8kr8p2VfLRAiczlF-mPGjdckqAF9ebEWtYx_dMZIcanX7HKWyJuZ7KulMti/pub\" target=\"_blank\" class=\"text-primary\">Bosun 63m #2309</a><br><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSmJfVclswYI0Gn1XwEPXUYVEXZcCpRdz3vRPAFd-0v0xM7r0M5aWxWjU2KOHrbjNYJhh0DGJceW4ZV/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 63m #2314</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ8ddrWvBrTC1SVDc10k089-mLFdvf36KP4CT-oFYan78Sc8Xj4Hs4WoGCu7bK-EhGJvRsuypXhKL1s/pub\" class=\"text-primary\">Deckhand 46m Adventure #2315</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTl0PmZ2UnEbxrEKmwobnv8M_Jhq63ljLzVdhgunGctH-A_UFZ3FRkOBM9JMxWK35Xyzq66XliLY8p_/pub\" target=\"_blank\" class=\"text-primary\">Stew / Deckhand 37m #2295</a><br></p><p><br><br><br></p><p></p>",
+          "caption1": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQaFYt3gemP8edCzvQuR6xDXPwb-s9Jb0TnLBb7aYQE8ym9t2JAfZZvsji75YhjfvkcVtlO6bjUVDWr/pub\" target=\"_blank\" class=\"text-primary\">Captain 40m #2323</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTUQCVL9qkOn0i6VOO0dE5_2-1CytLn2uf9YjVbhdAvEmxGLGaUX-u8tBn-Bf_oWsSznSYJAMlmeYUk/pub\" target=\"_blank\" class=\"text-primary\">Captain 39m #2317</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTo32fuiYUQ5R8Qorl_Pm7m9r3hBFxxCeQ1FwWSjZ4aIa51n801XV6kufh8QXYLr3BwPWB129YuAtCA/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Captain 37m #2297</a><br><span style=\"line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTXW_V8ar5TKOsvb7GRe-I6B7ETa_u7DX27Mf1x45H8j5lNqp2IyAey75VbxmtGP7825nhCD-1WqNKE/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 38m Great Seatime #2287</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQrPQBquelg7TjIK29r2EcMYDBbzgrjZw8iymUruXA60YIHCJUhqRsXkJIogBp36C_0GJD1TRBLcPsJ/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">First Mate 38m #2276</a><br><span style=\"line-height: 1.5;\">--</span><br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ8ddrWvBrTC1SVDc10k089-mLFdvf36KP4CT-oFYan78Sc8Xj4Hs4WoGCu7bK-EhGJvRsuypXhKL1s/pub\" class=\"text-primary\" style=\"line-height: 1.5;\">Deckhand 46m Adventure #2315</a><br><br></p><p><br><br><br></p><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2545,7 +2545,7 @@
           },
           "title2": "Engine",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<a href=\"https://docs.google.com/document/d/e/2PACX-1vQmEXNfm2MVrAtAEmeIAk9004HymAfAw1TmVOGJEbq04E1qA1f-zOpnaNcLbxdVlOgel7pddZi0OBvt/pub\" target=\"_blank\" class=\"text-primary\">Mate / Engineer 37m #2294</a><br>--<br><br>",
+          "caption2": "<span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2560,7 +2560,7 @@
           },
           "title3": "Interior<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQXh7xGr_Jrt_QUBkeTDPoSspm7GsuRuWErY_aUVYk0rC9JzuHCRjNObbA4k_fCOaqHhLMxuFCs5HG8/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Stew 49m #2320</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRig-w0PQGFGR-xYiB0McRcQegA-MKeNigqjiMfpMfdqdh66eoFaDjbO7s5Z6BmX2nYNqW0tpaxwEIH/pub\" target=\"_blank\" class=\"text-primary\">Chief Stew 38m #2325</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWlfV2UbHh_wb297bw6WPsZ63-PYGVtiqfMjruyPrDaTBu1KUUhA2ak62tVIkLtQYu00khk_vIo7IP/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Stew 30m #2257</a><br><span style=\"line-height: 1.5;\">--</span><br><br><span style=\"line-height: 1.5;\">--<font color=\"#000000\"><br></font></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vSmvCuUyyth1mNxaGQ_kgT3Io2zfudAqr4MI9jdB9RSL89KI0LAHJat4ltCAV7zoVa41DmLNjnYDK0b/pub\" target=\"_blank\" class=\"text-primary\">Stew 63m #2314</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vQa5uWRBcxNYvgKEGbkuWMo2GMPqMShQYGWthVyi47FCyK759htLSFQmEZJmL48C6fCZ_uejZDDCiuR/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Stew. Temporary 49m #2324</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTl0PmZ2UnEbxrEKmwobnv8M_Jhq63ljLzVdhgunGctH-A_UFZ3FRkOBM9JMxWK35Xyzq66XliLY8p_/pub\" target=\"_blank\" class=\"text-primary\">Stew / Deckhand 37m #2295</a><br><br></p><p><br><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><br></p>",
+          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQXh7xGr_Jrt_QUBkeTDPoSspm7GsuRuWErY_aUVYk0rC9JzuHCRjNObbA4k_fCOaqHhLMxuFCs5HG8/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Stew 49m #2320</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vRig-w0PQGFGR-xYiB0McRcQegA-MKeNigqjiMfpMfdqdh66eoFaDjbO7s5Z6BmX2nYNqW0tpaxwEIH/pub\" target=\"_blank\" class=\"text-primary\">Chief Stew 38m #2325</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vTWlfV2UbHh_wb297bw6WPsZ63-PYGVtiqfMjruyPrDaTBu1KUUhA2ak62tVIkLtQYu00khk_vIo7IP/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Stew 30m #2257</a><br><span style=\"line-height: 1.5;\">--</span><br><br><span style=\"line-height: 1.5;\">--<font color=\"#000000\"><br></font></span><a href=\"https://docs.google.com/document/d/e/2PACX-1vQa5uWRBcxNYvgKEGbkuWMo2GMPqMShQYGWthVyi47FCyK759htLSFQmEZJmL48C6fCZ_uejZDDCiuR/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Stew. Temporary 49m #2324</a><br><br></p><p><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2992,9 +2992,9 @@
               "family": "et-line"
             }
           },
-          "title1": "New tip coming soon",
-          "subtitle1": "It will be here soon....",
-          "caption1": "Helpful tip on the way!",
+          "title1": "Interview Tip from Jovana",
+          "subtitle1": "June 14, 2022",
+          "caption1": "When describing yourself in a cover letter, in your CV or during the interview, try to avoid cliché descriptions: team player, hardworking etc. We want to learn what your specificity is, what makes you unique and what extra value you bring to the team you join.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

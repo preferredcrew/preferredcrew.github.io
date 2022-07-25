@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "crew.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -855,7 +855,7 @@
             "showButton": false
           },
           "title": "As professional yacht crew you have:",
-          "text": "<p>Solid yachting experience&nbsp;<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">A history of making commitments<br>Seeking full time work (not freelance/seasonal)<br>Verifiable &nbsp;references<br>STCW Basic Training<br>Medical Fit for Duty<br>Appropriate visas<br>Officers: License appropriate for the position you seek</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If this defines you, and to explore if we can be of assistance in your career - send your CV to <a href=\"mailto:NewCrew@Preferredcrew.com\">NewCrew@Preferredcrew.com</a>.</span></p>",
+          "text": "<p>Solid yachting experience&nbsp;<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">A history of making commitments<br>Seeking full time work (not freelance/seasonal)<br>Verifiable &nbsp;references<br>Current &nbsp;CV<br>STCW Basic Training<br>Medical Fit for Duty<br>Appropriate visas<br>Officers: License appropriate for the position you seek</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If this defines you, and to explore if we can be of assistance in your career - send us those documents above (nothing else please) to <a href=\"mailto:NewCrew@Preferredcrew.com\">NewCrew@Preferredcrew.com</a>&nbsp;&nbsp;</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {

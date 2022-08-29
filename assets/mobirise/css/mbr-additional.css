@@ -962,6 +962,14 @@ h6,
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
+#header3-3r .mbr-section-title,
+#header3-3r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3r H3 {
+  text-align: right;
+  font-size: 21px;
+}
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;

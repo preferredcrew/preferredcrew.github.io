@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 135,
+    "uniqCompNum": 136,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -2451,6 +2451,30 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "21px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "We are having a little trouble posting new jobs",
+          "meta": "The below jobs are still open, but our newer jobs are not yet posting....do not hesitate to send us your CV if you meet our crewing markers!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -2545,7 +2569,7 @@
           },
           "title2": "Engine",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">All of our Engine spots are filled!<br></span><br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><br>",
+          "caption2": "<span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\"><br></span><br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2560,7 +2584,7 @@
           },
           "title3": "Interior<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRulO2lNBlPv0ujikJ_hB72A7w1vm7J5d3AJgHsPoFcJ_Is7ED4k9EKrDOY6u12oBshTE6qhBqnn_2Q/pub\" target=\"_blank\" class=\"text-primary\" style=\"line-height: 1.5;\">Chief Stew 43m #2340</a><br><span style=\"line-height: 1.5;\">--</span><br><span style=\"line-height: 1.5;\">--</span><br><br><br></p><p><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><br></p>",
+          "caption3": "<p><br><span style=\"line-height: 1.5;\">--</span><br><span style=\"line-height: 1.5;\">--</span><br><br><br></p><p><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2682,7 +2706,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "100% of our clients require:<br><br>- STCW Basic Training including Security<br>- ENG1 or other Medical Fit For Duty<br>- Passport that is valid and in hand.<br>"
+          "meta": "100% of our clients require:<br><br>- STCW Basic Training including Security<br>- ENG1 or other Medical Fit For Duty<br>- Passport that is valid and in hand.<br>-A proven history of making commitments and sticking with them"
         },
         {
           "_styles": {

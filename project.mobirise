@@ -135,7 +135,7 @@
             "showButton": false
           },
           "title": "Simple Registration Process:<br><br>",
-          "text": "<ul><li>We welcome qualified crew applying for any open position in our <a href=\"jobs.html\">JOBS</a> page</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Crew referred to us by an existing Preferred Crewmember, please send your CV and the name of the Crewmember who is referrring you to </span><a href=\"mailto:referredcrew@preferredcrew.com\" style=\"font-size: 1.07rem; background-color: rgb(242, 242, 242); line-height: 1.5;\">CLICK HERE</a><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">( referredcrew@preferredcrew.com )for our team to immediately review.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Yacht crew without a referral please review our requirements on the Crew page and then &nbsp;<a href=\"crew.html\">CLICK HERE</a> to send your CV to us<br></span><br></li></ul><p>Although we would love to be able to assist everybody in their yachting career path, we focus on long term yachting professionals - feel free to review our requirements on the <a href=\"crew.html\">CREW</a> page.</p>",
+          "text": "<ul><li>We welcome qualified crew applying for any open position in our <a href=\"jobs.html\">JOBS</a> page</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Crew referred to us by an existing Preferred Crewmember, please send your CV and the name of the Crewmember who is referrring you to </span><a href=\"mailto:referredcrew@preferredcrew.com\" style=\"font-size: 1.07rem; background-color: rgb(242, 242, 242); line-height: 1.5;\">CLICK HERE</a><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">( referredcrew@preferredcrew.com )for our team to immediately review.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Yacht crew without a referral please review our requirements on the Crew page and then &nbsp;<a href=\"crew.html\">CLICK HERE</a> to send your CV to us.<br></span><br></li></ul><p>Although we would love to be able to assist everybody in their yachting career path, we focus on long term yachting professionals - feel free to review our requirements on the <a href=\"crew.html\">CREW</a> page.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2569,7 +2569,7 @@
           },
           "title2": "Engine",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>--<br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\"><br></span><br><br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><br>",
+          "caption2": "<br>--<br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\"><br></span><br><span style=\"color: rgb(0, 0, 0); text-align: center; line-height: 1.5;\">--</span><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2584,7 +2584,7 @@
           },
           "title3": "Interior<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p style=\"text-align: right; \"><br></p><p><br><br><b style=\"line-height: 1.5;\">Other (ALL)</b><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTCAhIULlbekiLIwMI6oeEwLiYBYmFP9wHPsWIuUFD8adZ1ld4yXFeh3JddwjIggQQHuJNaP70icsNA/pub\" target=\"_blank\" class=\"text-primary\">Technical Manager #2357</a><br></p>",
+          "caption3": "<p style=\"text-align: center; \"><br></p><p style=\"text-align: center; \"><b style=\"line-height: 1.5; text-align: left;\">Other (ALL)</b><br></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vTCAhIULlbekiLIwMI6oeEwLiYBYmFP9wHPsWIuUFD8adZ1ld4yXFeh3JddwjIggQQHuJNaP70icsNA/pub\" target=\"_blank\" class=\"text-primary\">Technical Manager #2357</a><br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2599,7 +2599,7 @@
           },
           "title4": "Galley",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ4DdpKTQ6lYbzlGTv241jslvS1TY2sLiR4vuHjB-ElF3eUeebydLa-tvn5taLCjLg-AVrLEjEX4sTs/pub\" target=\"_blank\" class=\"text-primary\">Chef 47m #2383</a><br><a href=\"https://docs.google.com/document/d/e/2PACX-1vSO4GH_Lfy44aF_IC7Tgg4fbFnbFU3ejF4kREbXxcno90fbCKVLt318W7awYCXpWbK-BITM9dsktpNj/pub\" target=\"_blank\" class=\"text-primary\">Chef 40m #2376</a><br><br><span style=\"line-height: 1.5;\">--</span><br><span style=\"line-height: 1.5;\"><br></span></p><p><br></p>",
+          "caption4": "<p><a href=\"https://docs.google.com/document/d/e/2PACX-1vQ4DdpKTQ6lYbzlGTv241jslvS1TY2sLiR4vuHjB-ElF3eUeebydLa-tvn5taLCjLg-AVrLEjEX4sTs/pub\" target=\"_blank\" class=\"text-primary\">Chef 47m #2383</a><br><br></p><p><br><span style=\"line-height: 1.5;\">--</span><br><span style=\"line-height: 1.5;\"><br></span></p><p><br></p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {

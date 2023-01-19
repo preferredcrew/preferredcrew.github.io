@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "jobs.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3044,9 +3044,9 @@
               "family": "et-line"
             }
           },
-          "title3": "New tip coming soon",
-          "subtitle3": "Sooner than a blink of the eye",
-          "caption3": "Wer are soooo going to tip you!",
+          "title3": "",
+          "subtitle3": "",
+          "caption3": "<b>CV tip from Ian</b><br>January 16, 2023<br><br>If you are writing your CV in English, make sure to use an English spell check, then have a friend review it as well to check the grammar and “voice” of your CV. This is your professional snapshot – not a text to your friends. Avoid jargon and abbreviations!",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {

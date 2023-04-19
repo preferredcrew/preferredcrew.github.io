@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "index.html",
+    "currentPage": "jobs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4332,7 +4332,7 @@
           "title1": "Deck",
           "subtitle1": "Review our client's current openings",
           "caption1": "Captain, Chief/First Mate, Second Mate/Bosun &amp; Deckhand",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Deck.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/pavel-neznanov-w95fb7eecje-unsplash.jpg",
@@ -4348,7 +4348,7 @@
           "title2": "Engine",
           "subtitle2": "Review our client's current openings",
           "caption2": "Chief, Sole, Second &amp; Third Engineers",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Engine.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/istock-3.jpg",
@@ -4364,7 +4364,7 @@
           "title3": "Interior",
           "subtitle3": "Review our client's current openings",
           "caption3": "Chief, Second, Stew, Purser, Housekeeping, Laundry",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Interior.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/istock-4.jpg",
@@ -4380,7 +4380,7 @@
           "title4": "Galley",
           "subtitle4": "Review our client's current openings",
           "caption4": "Chefs of all types - this is you!",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"galley.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nick-karvounis-gd4gjhtc4k-unsplash.jpg",
@@ -4396,7 +4396,7 @@
           "title5": "Land Based",
           "subtitle5": "Review our client's current openings",
           "caption5": "Ready to come ashore? Land based jobs that utilize your yachting skills",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"land.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",

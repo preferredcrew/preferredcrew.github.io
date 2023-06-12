@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "Deck.html",
+    "currentPage": "galley.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5687,7 +5687,7 @@
           },
           "title1": "Head / Sole Chef",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"2420.html\" class=\"text-primary\">Head Chef 51m</a><br><a href=\"fleetchef.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chef from 30m to 70m</a><br>",
+          "caption1": "<a href=\"fleetchef.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chef from 30m to 70m</a><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "2416.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1326,9 +1326,9 @@
               "family": "et-line"
             }
           },
-          "title1": "New tip coming soon",
-          "subtitle1": "It will be here soon....",
-          "caption1": "Helpful tip on the way!",
+          "title1": "Stop wasting your time “tweaking” your CV every day. Communicate clearly what you are bringing to the table – nobody cares if you change the color of the font….but when you find an error in that CV, change it immediately!",
+          "subtitle1": "",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

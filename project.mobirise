@@ -1290,6 +1290,11 @@
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "features2-3p",
@@ -1326,7 +1331,7 @@
               "family": "et-line"
             }
           },
-          "title1": "Stop wasting your time “tweaking” your CV every day. Communicate clearly what you are bringing to the table – nobody cares if you change the color of the font….but when you find an error in that CV, change it immediately!",
+          "title1": "CV tip from Ian<br><span style=\"color: inherit; line-height: 1.2825; font-weight: normal;\"><i>Jun 21, 2023</i></span><br><br><span style=\"font-weight: normal;\">Stop wasting your time “tweaking” your CV every day. Communicate clearly what you are bringing to the table – nobody cares if you change the color of the font….but when you find an error in that CV, change it immediately!</span>",
           "subtitle1": "",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",

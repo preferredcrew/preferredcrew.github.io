@@ -758,6 +758,7 @@ h6,
 #menu-1j .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
 }
+
 #msg-box8-27 .mbr-section-title,
 #msg-box8-27 p {
   color: #fff;
@@ -788,6 +789,10 @@ h6,
 }
 #features2-3p .mbr-cards-col:nth-child(even) .card-text {
   color: #28324e;
+}
+#features2-3p .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
 }
 #features2-3o .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #28324e;

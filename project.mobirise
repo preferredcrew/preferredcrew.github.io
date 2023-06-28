@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "tips.html",
+    "currentPage": "Interior.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5664,7 +5664,7 @@
           },
           "title1": "Chief Stews",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Chief Stew - 38m<br><a href=\"fleetchiefstew.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chief Stew from 30m to 70m</a><br>",
+          "caption1": "<a href=\"2429.html\" class=\"text-primary\">Chief Stew - 38m</a><br><a href=\"fleetchiefstew.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chief Stew from 30m to 70m</a><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

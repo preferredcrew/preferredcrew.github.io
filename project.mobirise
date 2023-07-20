@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "2428.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1326,9 +1326,9 @@
               "family": "et-line"
             }
           },
-          "title1": "New tip coming soon",
-          "subtitle1": "It will be here soon....",
-          "caption1": "Helpful tip on the way!",
+          "title1": "Career Tip from Ian",
+          "subtitle1": "July 20, 2023",
+          "caption1": "Don’t let rejection get you down – it is part of the job hunt…both at sea and on land.  We would never tell you that you are “one interview closer to your next job” – that is just fluff, but we will tell you – don’t give up.  There really is another opportunity right around the corner.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

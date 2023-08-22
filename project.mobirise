@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "Engine.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1355,8 +1355,8 @@
             }
           },
           "title3": "New tip coming soon",
-          "subtitle3": "Sooner than a blink of the eye",
-          "caption3": "Wer are soooo going to tip you!",
+          "subtitle3": "August 21, 2023",
+          "caption3": "Call your Mom every now and again…she does still worry.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {

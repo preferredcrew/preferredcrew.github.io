@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "tips.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 450,
+    "uniqCompNum": 451,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -3191,6 +3191,26 @@
           "meta": "Each yacht will have specific / additional requirements - these are simply the minimums"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ci",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "We only accept candidates by referral",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3962,7 +3982,7 @@
           },
           "title1": "What kind of crew do you recruit?",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">The best term is - Professional. &nbsp;Our clients are seeking crew with a proven history of working on yachts, appropriate documents (training, licenses, references, etc.. &nbsp;We recruit for every position aboard the yachts. &nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">We do not recruit for crew seeking temporary or freelance work,.</span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">The best term is - Professional. &nbsp;Our clients are seeking crew with a proven history of working on yachts, appropriate documents (training, licenses, references, etc.. &nbsp;We recruit for every position aboard the yachts. &nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">We do not recruit for crew seeking temporary or freelance work. &nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Please note - we only consider candidates who are brought to us by people we already know - referrals only.<br></span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {

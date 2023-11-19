@@ -781,6 +781,24 @@ h6,
 #msg-box8-27 .mbr-section-title SPAN {
   font-size: 22px;
 }
+#features2-ed .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #28324e;
+}
+#features2-ed .mbr-cards-col:nth-child(even) .card-title {
+  color: #28324e;
+}
+#features2-ed .mbr-cards-col:nth-child(even) .card-text {
+  color: #28324e;
+}
+#features2-ec .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #28324e;
+}
+#features2-ec .mbr-cards-col:nth-child(even) .card-title {
+  color: #28324e;
+}
+#features2-ec .mbr-cards-col:nth-child(even) .card-text {
+  color: #28324e;
+}
 #features2-dz .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #28324e;
 }

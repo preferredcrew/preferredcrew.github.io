@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "Interior.html",
+    "currentPage": "requirements.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4071,26 +4071,6 @@
           },
           "title": "Minimum Requirements for Consideration",
           "meta": "Each yacht will have specific / additional requirements - these are simply the minimums"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-ci",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "We only accept candidates by referral",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [

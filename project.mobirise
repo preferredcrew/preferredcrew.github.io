@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "Deck.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 538,
+    "uniqCompNum": 540,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -1274,6 +1274,258 @@
           "title": "Treating Crew with Respect<br><br><span style=\"letter-spacing: -1px; line-height: 1.1;\">The advice is free - use it as you see fit</span><br>",
           "text": "<p></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "features2-ez",
+          "_params": {
+            "columnsColor": "#28324e",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "Tip Soon",
+          "subtitle1": "Coming soon",
+          "caption1": "Watch this space",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "Tip coming soon!",
+          "subtitle2": "Sooo Soon!!!",
+          "caption2": "Watch this space",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Career Tip From Ian",
+          "subtitle3": "January 9",
+          "caption3": "Don’t quit a job because of a bad day. Tomorrow will be different",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Interview Tip From Ian",
+          "subtitle4": "December 18",
+          "caption4": "When going into an interview think of what they are seeking. If the post is for a Bosun, there is not a lot of value in your extolling how much you would love to be a Yoga Instructor. But when they ask about your hobbies, or what you do for fun – roll it out then!<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#28324e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "features2-ey",
+          "_params": {
+            "columnsColor": "#28324e",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "Career Tip from Ian",
+          "subtitle1": "December 15",
+          "caption1": "Be a bit careful with your personal information. Agents need some personal information from you, but not really that much. When you join a yacht, you will need to bring your original documents with you – they NEED that sensitive information. The rest of the world does not. Keep your passport cover page, driver’s license, social benefits card, etc. to yourself. NEVER post them on Facebook / Instagram / Twitter etc.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "CV Tip from Ian",
+          "subtitle2": "December 13",
+          "caption2": "Stop wasting your time “tweaking” your CV every day. Communicate clearly what you are bringing to the table – nobody cares if you change the color of the font….but when you find an error in that CV, change it immediately!<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Career Tip from Nelly",
+          "subtitle3": "December 11",
+          "caption3": "Don’t let rejection get you down – it is part of the job hunt…both at sea and on land. We would never tell you that you are “one interview closer to your next job” – that is just fluff, but we will tell you – don’t give up. There really is another opportunity right around the corner.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "I'm in Fort Lauderdale right now, can I just stop in?",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Unfortunately no. As we are such a small agency, we do require an appointment for any meeting. We don’t accept walk-ins.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -6342,7 +6594,7 @@
           },
           "title4": "Deckhands",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<a href=\"2456.html\" class=\"text-primary\">Deckhand - 47m</a><br><a href=\"2465.html\" class=\"text-primary\">Deckhand - 46m</a><br><a href=\"fleetdeckhand.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Deckhand from 30m to 70m</a><br>",
+          "caption4": "<a href=\"2465.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Deckhand - 46m</a><br><a href=\"fleetdeckhand.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Deckhand from 30m to 70m</a><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -6609,7 +6861,7 @@
           },
           "title1": "Chief / Sole Engineers",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<a href=\"2469.html\" class=\"text-primary\">Chief Engineer (Y2) Rotation- 60m</a><br><a href=\"2444.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Sole Enginner (NLR) - 40m</a><br><a href=\"2436.html\" class=\"text-primary\">Sole&nbsp;Engineer - 38m</a><br><a href=\"fleetchiefengineer.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chief &nbsp;Engineer from 30m to 70m</a><br>",
+          "caption1": "<a href=\"2469.html\" class=\"text-primary\">Chief Engineer (Y2) Rotation- 60m</a><br><a href=\"2436.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Sole&nbsp;Engineer - 38m</a><br><a href=\"fleetchiefengineer.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chief &nbsp;Engineer from 30m to 70m</a><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -7236,7 +7488,7 @@
           },
           "title1": "Head / Sole Chef",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Sole Chef 43m&nbsp;<br><a href=\"fleetchef.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chef from 30m to 70m</a><br>",
+          "caption1": "<a href=\"fleetchef.html\" class=\"text-primary\" style=\"font-size: 1rem; line-height: 1.5;\">Fleet Chef from 30m to 70m</a><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -10972,406 +11224,6 @@
         }
       ]
     },
-    "2444.html": {
-      "settings": {
-        "title": "2444",
-        "meta_descr": "Yacht Engineer",
-        "order": 14
-      },
-      "components": [
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-cx",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Sole Engineer - 40m",
-          "text": "<div><br></div><div>Are you an Engineer seeking an opportunity to work in a meticulously maintained Dutch-engineered engine room? Look no further, as we have just the opportunity for you.</div><div>We are currently in search of a dedicated Engineer (Sole) to join our team on a 40m Private Motor Yacht. Our close-knit team thrives on collaboration, where everyone plays a part in various tasks – from standing watch to engaging in watersports and tender operations when the family is on board.</div><div>The highlight of this role is our impeccably maintained engine room, a testament to our commitment to excellence. Our Captain, a seasoned professional, ensures the well-being and contentment of our crew, creating a positive and harmonious work environment.</div><div>As we sail through the breathtaking South Pacific and plan for an exciting antipodean voyage in the foreseeable future, we are particularly interested in candidates from Australia and New Zealand due to our proximity to these regions.</div><div>If you're an Engineer with a passion for maritime excellence, a spirit of teamwork, and a desire for a rewarding adventure, we encourage you to apply and become a valued member of our crew.</div><div>Requirements include:</div><div>Solid Yachting Experience&nbsp;</div><div>A license of any size, but a license.</div><div>Ability to commit for at least a year (this is non-rotation)</div><div>Happy with 9500 USD / month.</div><div>Male – shared cabin</div><div>Available to start in September.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202444\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-cy",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-cz",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#28324e"
-            },
-            "STRONG": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "contacts1-d0",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#000000"
-            }
-          },
-          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
-          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
-          "text3": ""
-        }
-      ]
-    },
-    "2459.html": {
-      "settings": {
-        "title": "2459",
-        "meta_descr": "Yacht Chef",
-        "order": 14
-      },
-      "components": [
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-e0",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Chef - 43m",
-          "text": "<div><br></div><div>Our client is seeking Chef candidate to join their team and bring that \"work hard - play hard\" attitude along.  You will be focused on brining a happy, yacht perfect atmosphere to these American owners while preparing fabulous dishes and gastronomic delights.</div><div>The yacht is 40m+, new, private (at least until the fall), traveling the traditional yachting hotspots from the Caribbean to the Mediterranean.</div><div>The family is US, low maintenance (they enjoy going ashore when at the dock to explore the local sites), happy and respectful.  They love the boat and the freedom that it offers.  Their itinerary is planned out for the next year (light use) and although there is guaranteed to be some unexpected changes, they are serious planners and you will know the organization well in advance.&nbsp;</div><div>They enjoy a very high-end service.&nbsp;</div><div><br></div><div>Recent longevity is something that will definitely put in the front of the line, since this client is considering only candidates able to make commitments and stick with them through time.</div><div>Speaking of requirements…here they are:</div><div><br></div><div>Minimum of 12 solid months of yachting experience - this is a proper Chef position and you must bring good skills to the table.</div><div>Position is team friendly, so if you have Chief stew partner, things can work out</div><div>Fluent English (as a mother tongue is ideal, but fluent will do)</div><div>Solid longevity - at least year on each boat</div><div>Of course STCW Basic Training / ENG1 / Solid references (and we do check).</div><div>B1 and Schengen (at least eligible) visas or Residency that allows you to work in both the Caribbean and the Mediterranean</div><div>Join date – asap</div><div>The wages are good, but we don’t share them - that is for the two sides to agree on after meeting.</div><div>Vacation - 42 paid days off per year - and as they are so well planned out with their program they are willing to consider unpaid time at the crewmember’s request (must fit in with the program’s plans).</div><div>They do not accept teams on the program.</div><div><br></div><div>If you can relate to this, let us know!</div><div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202459\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-e1",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-e2",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#28324e"
-            },
-            "STRONG": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "contacts1-e3",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#000000"
-            }
-          },
-          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
-          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
-          "text3": ""
-        }
-      ]
-    },
     "2457.html": {
       "settings": {
         "title": "2457",
@@ -11538,206 +11390,6 @@
             }
           },
           "_anchor": "contacts1-e7",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#000000"
-            }
-          },
-          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
-          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
-          "text3": ""
-        }
-      ]
-    },
-    "2456.html": {
-      "settings": {
-        "title": "2456",
-        "meta_descr": "Yacht Deckhand",
-        "order": 14
-      },
-      "components": [
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-e8",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Deckhand - 47m",
-          "text": "<div><br></div><div>Are you a Deckhand looking for an opportunity to grow your professional longevity?  Our client has an exceptional opportunity for you to get some great footing.  This 47 meter private, motor yacht cruises between Florida, the Bahamas, and a bit up the US East Coast.</div><div>They have a Deckhand spot open as they have just promoted the previous Deckhand to Bosun - they do love to promote from within.</div><div>To be considered, candidates must meet all of the following:</div><div>STCW Basic Training and ENG1 in hand and valid.</div><div>A history of making commitments and sticking with them (if you are newer to yachting, we need to see that commitment elsewhere in your life).</div><div>A happy, friendly, team-work mindset.</div><div>And of course - you must have at least a season working with teak, varnish, lines, washdowns, etc.</div><div>As they spend so much time in and around the US, citizens and green card holders will be given preferential consideration, but all passports can be considered!</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202456\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-e9",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-ea",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#28324e"
-            },
-            "STRONG": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "contacts1-eb",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -12538,206 +12190,6 @@
             }
           },
           "_anchor": "contacts1-et",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#000000"
-            }
-          },
-          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
-          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
-          "text3": ""
-        }
-      ]
-    },
-    "2470.html": {
-      "settings": {
-        "title": "2470",
-        "meta_descr": "Yacht Second Officer",
-        "order": 14
-      },
-      "components": [
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-eu",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Bosun (YM) - 60m",
-          "text": "<div><br></div><div>We are looking for a Bosun Yachtmaster (minimum) to join our 60m Charter yacht.</div><div>This well-established charter yacht is going to the Islands and then moving into a yard period (for about 4 months) where she will be getting some major works done.  The scope of work is ambitious but has been set up with an established project management team and is expected to come out (mostly) on time.</div><div>After the yard period, they anticipate heading to the Mediterranean for a summer season where they already have charter inquiries.  As a dual season program, they expect to return to the Caribbean in the winter of 2024.</div><div>The Deck team is the Captain, Chief Officer, Second Officer, Bosun and Deckhand. &nbsp;</div><div>The Bosun is the connection between the Bridge and the Deck.  Responsible for implementing direction from the Second, the meticulous upkeep and supervision and training of the Deckhands.</div><div>This is a hands-on position, not a list making position.</div><div>The yacht is about 10 years old and has been very well maintained.</div><div>The current Bosun is being promoted onboard and has been successful for a number of reasons – first and foremost, he was very hands on.  Comfortable with getting his hands dirty and keeping the yacht in good shape.  Also, he has been a true team player, happy to pitch in with other departments when the need arises. Proactive and happy! &nbsp;</div><div>The Captain prefers a diverse team culturally with the only requirements being:  English spoken at the fluent level (native level is not required), and the ability to easily obtain the B1/B2 and the Schengen when required.</div><div>Although the cabin is shared, they can currently accommodate both male and female candidates!</div><div>The position is open and should be filled by January 2 (so not a lot of time).</div><div>The wages are good (we do not share) and the vacation period is 48 days.</div><div>Candidates must have a solid 2-3 seasons of solid, (references will be checked) experience on deck on a very busy yacht (Charter or Private).  Tender driving skills are required, watersports experience is a plus.  Tattoos under a uniform are not a problem, but outside of shorts and t-shirt may be a deal killer.  Social smoke / vape is OK (not preferred) but daily smokers cannot be accommodated.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202470\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-ev",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-ew",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#28324e"
-            },
-            "STRONG": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "contacts1-ex",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

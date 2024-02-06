@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "Interior.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1340,9 +1340,9 @@
               "family": "et-line"
             }
           },
-          "title2": "Tip coming soon!",
-          "subtitle2": "Sooo Soon!!!",
-          "caption2": "Watch this space",
+          "title2": "Career Tip From Ian",
+          "subtitle2": "February 6",
+          "caption2": "Don’t work for a bad boss. They set the tone, tomorrow will not be different",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

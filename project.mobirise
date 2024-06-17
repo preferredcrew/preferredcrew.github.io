@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "index.html",
+    "currentPage": "jobs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 608,
+    "uniqCompNum": 616,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -6129,7 +6129,7 @@
           },
           "title1": "Deck",
           "subtitle1": "Review our client's current openings",
-          "caption1": "<b><a href=\"2487.html\">Captain 25m</a><br> <a href=\"2488.html\" target=\"_blank\">Bosun 45m</a><a href=\"2488.html\" target=\"_blank\"><br></a><a href=\"2485.html\" target=\"_blank\">Deckhand 55m</a>&nbsp;</b>",
+          "caption1": "<b><a href=\"2487.html\">Captain 25m</a><br><a href=\"2492.html\">Second Officer 60m+</a><br> <a href=\"2488.html\" target=\"_blank\">Bosun 45m</a><a href=\"2488.html\" target=\"_blank\"><br></a><br></b>",
           "button1": "<a data-app-btn=\"true\" href=\"Deck.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -6177,7 +6177,7 @@
           },
           "title4": "Galley",
           "subtitle4": "Review our client's current openings",
-          "caption4": "All Galley spots are currently filled",
+          "caption4": "<a href=\"2491.html\" class=\"text-primary\"><b>Chef 46m</b></a>",
           "button4": "<a data-app-btn=\"true\" href=\"galley.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -6193,7 +6193,7 @@
           },
           "title5": "Land Based",
           "subtitle5": "Review our client's current openings",
-          "caption5": "<a href=\"2486.html\"><b>Family Asset Manager</b></a>",
+          "caption5": "<b>All land spots are currently filled</b>",
           "button5": "<a data-app-btn=\"true\" href=\"land.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
@@ -11824,10 +11824,10 @@
         }
       ]
     },
-    "2485.html": {
+    "2491.html": {
       "settings": {
-        "title": "2485",
-        "meta_descr": "Yacht Deckhand\n",
+        "title": "2491",
+        "meta_descr": "Yacht Chef ",
         "order": 14
       },
       "components": [
@@ -11845,7 +11845,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-go",
+          "_anchor": "msg-box3-gw",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -11865,16 +11865,16 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Deckhand 55m",
-          "text": "<div>Our client is seeking a female deckhand to join their 50m+ motor yacht.  The position is highly confidential. &nbsp;</div><div>They are seeking a happy, serious minded, career focused Deckhand who has some solid yachting experience and is looking to make a full year commitment.</div><div>They are currently located in S. Florida, but they do travel.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202485\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
+          "title": "Chef 46m",
+          "text": "<div>Our client is seeking an adventure loving Chef to join their 45m Charter boat...wait for it....in the Pacific!  Here is the deal, Central and North America, fishing fanatic, loves fresh fish every day and to pair it with the finest of wines.  Proper presentation, variety, everything you would expect from a great yachting program...and they expect it from you!</div><div>The boss is a very nice, considerate gentleman who frequently uses the boat alone, sometimes with guests (up to about 6 maximum) and is a connoisseur of the best the ocean has to offer.</div><div>They are officially a charter program - so there will be some charters, but as they are based in the Pacific, it is not nearly the number of bookings you see in a Mediterranean or Caribbean program.</div><div>They are about to set out for their adventure with a join date before the end of June.</div><div>The process is fairly simple - if you feel this challenge is for you, they do a background check, you would cook a meal for the boss in his Miami villa and then if the chemistry is great - you join!</div><div>Tattoos are not an issue - but smoking may be a deal killer.</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202491\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-gp",
+          "_anchor": "footer1-gx",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -11943,7 +11943,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-gq",
+          "_anchor": "menu-gy",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
@@ -11989,7 +11989,7 @@
               "color": "#28324e"
             }
           },
-          "_anchor": "contacts1-gr",
+          "_anchor": "contacts1-gz",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -12024,10 +12024,10 @@
         }
       ]
     },
-    "2486.html": {
+    "2492.html": {
       "settings": {
-        "title": "2486",
-        "meta_descr": "Estate ",
+        "title": "2492",
+        "meta_descr": "Yacht Second Officer ",
         "order": 14
       },
       "components": [
@@ -12045,7 +12045,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-gs",
+          "_anchor": "msg-box3-h0",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -12065,16 +12065,16 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Family Asset Manager",
-          "text": "<div>Our client is offering an incredible opportunity for a candidate with exceptional attention to detail, adeptness in managing high-end living arrangements (including estates, yachts, and private planes), and a robust operations background.</div><div>The role, titled Business Manager for the family enterprise, will oversee operations across six residences, an airplane (primarily managing scheduling and invoice payments while pilots handle operational matters), and a yacht (primarily coordinating the boss's schedule, managing invoices, and providing shore side support when necessary, while the Captain oversees yacht operations).</div><div>Extensive travel is a key component of this role, predominantly within the US, with frequent trips to the yacht, and significant international travel. The successful candidate will spend considerable time with the family.</div><div>Understanding of yachting and crew life is a plus, as this position demands round-the-clock availability, leaving minimal time for personal pursuits. Compensation is commensurate with the demanding nature of the role.</div><div>The ideal candidate will be highly energetic, adaptable to spontaneous travel, proficient in both Mac and PC systems, exceptionally organized, and detail-oriented.</div><div>The family is a very long term yacht family, has a great reputation with their crew and are described as both “nice and happy.”</div><div>Prospective applicants must be prepared for the all-encompassing nature of this position, being ready to embark on journeys at a moment's notice.</div><div>US candidates and Green Card holders are given preferential consideration.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202486\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
+          "title": "Second Officer 60m+",
+          "text": "<div>Our client is seeking a Second Officer, with the OOW in hand, to join their 60m+ chartering motor yacht.</div><div>This is a proper Second's position - meaning you are running the Deck team, have the sharpest eye for detail, understand the basics of the ISM and are willing to work within the rules.</div><div>Currently in the Med, they run the basic Mediterranean / Caribbean program with stops in the US as well.&nbsp;</div><div>The opening is quite unexpected and they are recruiting for someone to join immediately.</div><div>Again - hands on is important, this is not a list making position.</div><div>Wages are appropriate for the experience and longevity (both must be good) that you bring to the table.</div><div>You must be legally able to work in the EU now.</div><div>References and background will be confirmed.</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202492\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-gt",
+          "_anchor": "footer1-h1",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -12143,7 +12143,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-gu",
+          "_anchor": "menu-h2",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
@@ -12189,7 +12189,7 @@
               "color": "#28324e"
             }
           },
-          "_anchor": "contacts1-gv",
+          "_anchor": "contacts1-h3",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

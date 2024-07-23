@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 616,
+    "uniqCompNum": 620,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -6177,7 +6177,7 @@
           },
           "title4": "Galley",
           "subtitle4": "Review our client's current openings",
-          "caption4": "<a href=\"2491.html\" class=\"text-primary\"><b>Chef 46m</b></a>",
+          "caption4": "<b><a href=\"2494.html\" class=\"text-primary\">Chef 47m</a><br><a href=\"2491.html\" class=\"text-primary\">Chef 46m</a></b>",
           "button4": "<a data-app-btn=\"true\" href=\"galley.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -12190,6 +12190,206 @@
             }
           },
           "_anchor": "contacts1-h3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
+          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
+          "text3": ""
+        }
+      ]
+    },
+    "2494.html": {
+      "settings": {
+        "title": "2494",
+        "meta_descr": "Yacht Chef ",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-h4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Chef 47m",
+          "text": "<div>Job Description: Sole Chef for Private 46m Adventure Motor Yacht</div><div>We are seeking a Sole Chef to join our fully private, 46m adventure motor yacht for a 12-month contract (non-rotation).</div><div><br></div><div>Our current Chef is moving on after fulfilling the contract, leaving with a stellar reference. The position starts on September 1, reflecting our yacht's meticulous planning.</div><div><br></div><div>About Us</div><div>Our small crew of eight is a vibrant mix of ages and backgrounds, united by professionalism and a love for adventure.</div><div><br></div><div>This is a non-smoking, non-vaping program with strict adherence to reference checks, including those related to alcohol.</div><div><br></div><div>Expectations</div><div>We maintain a \"tight ship\" with high standards:</div><div><br></div><div>Beds made</div><div>Ensign up at 8 AM</div><div>Shirts tucked in</div><div>Clean, professional, and well-groomed crew</div><div>We're not a party group, and we value early lights out to prepare for the next day's hard work. Image is important, and we prefer a polished, professional appearance.</div><div><br></div><div>Life Onboard</div><div>Operations are fun and well-managed, allowing time for the crew to enjoy yachting activities:</div><div><br></div><div>BBQ and grilling on the sundeck</div><div>Snorkeling, swimming, and adventure cruises</div><div>While you'll spend significant time in the Galley, you'll also get to experience the adventure of yachting. The boss supports crew enjoyment, ensuring you get to experience almost every destination firsthand.</div><div><br></div><div>Compensation and Challenges</div><div>We offer competitive pay, reflecting our high expectations and the challenging aspects of the job. The Galley, located main deck forward, offers the best view on the yacht, with large windows and ample counter space. It is open to the crew mess, separated by a large island counter.</div><div><br></div><div>The Chef shares a cabin with the Mate, who is very clean and tidy. All crew members share cabins, ensuring equal treatment.</div><div><br></div><div>Culinary Responsibilities</div><div>You'll primarily cook for the crew, who are experienced in yachting and appreciative of fine cuisine. The boss, however, prefers a less adventurous menu, with specific preferences and repeated meals like Moroccan night and Shakshuka breakfast.</div><div><br></div><div>Provisioning and Equipment</div><div>Chef is responsible for provisioning, using a credit card for purchases and maintaining records. The Galley is well-equipped with top-notch appliances and ample counter space.</div><div><br></div><div>Additional Duties</div><div>The Chef will also participate in dockside watch rotation, including evening logs and weekend lighting duties.</div><div><br></div><div>Benefits</div><div>We offer excellent holidays, a bonus program, holiday flights, top-tier health insurance, and tuition benefits. Wages depend on your experience.</div><div><br></div><div>Itinerary</div><div>Our planned itinerary includes winter in the Bahamas/Caribbean, an early crossing to the Mediterranean and Adriatic (Greece this year), followed by the UK and possibly Holland. We often venture off the beaten path, avoiding typical yachting hotspots.</div><div><br></div><div>If this program excites you and aligns with your skills, we would love to consider you for this unique opportunity.</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202494\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h6",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            },
+            "STRONG": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "contacts1-h7",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

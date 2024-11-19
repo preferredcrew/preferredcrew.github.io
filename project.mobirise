@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 633,
+    "uniqCompNum": 637,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -6319,7 +6319,7 @@
           },
           "title5": "Land Based",
           "subtitle5": "Review our client's current openings",
-          "caption5": "<b>All land spots are currently filled</b>",
+          "caption5": "<b><a href=\"2500.html\" class=\"text-primary\">Marine Technician</a></b>",
           "button5": "<a data-app-btn=\"true\" href=\"land.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
@@ -11916,6 +11916,206 @@
             }
           },
           "_anchor": "contacts1-hk",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
+          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
+          "text3": ""
+        }
+      ]
+    },
+    "2500.html": {
+      "settings": {
+        "title": "2500",
+        "meta_descr": "Marine Technician",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-hl",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Marine Technician",
+          "text": "<div>Glittering sun.  Crystal clear seas.  Powder white beaches.  Powerful engines, sleek beautiful yachts cutting through paradise.  And marine doors.</div><div>Not everything in yachting is glittering and pretty.  A lot of it is solid hard work, understanding mechanical, electrical, and even some electronics.  The doors on yachts are a perfect example.</div><div>We are seeking a technician with career drive to join our established team – we consult and troubleshoot those pesky marine doors on yachts.  An intricate combination of everything you have learned to date will challenge you into completing a job well done.</div><div>Even aboard a single yacht, you will work with multiple types of doors - Electric and manual sliding, pantograph, watertight, locker, and fire doors exist on every yacht out there.  Each requires very detailed review, a creative and curious mind to evaluate and troubleshoot, and of course, meticulous follow-through to assure both the performance and beauty of each.</div><div>We are happy to train the right candidate – but you must bring the right mind-set to the table.  If you have solid experience in air conditioning (mechanical, electrical, electronic), lock smithing, aviation technology, or, of course, yachting you likely have the skills to be very successful with us.</div><div>The position we are looking to fill is one that we would like to see step up to lead technician (so you can lead a team of 2 to 3), but this is absolutely a “hands on” position, not a point and delegate spot.</div><div>The position is based in Fort Lauderdale, Florida with most of the jobs at boats within an hour or two driving, however some out of town work can be expected.  For well-qualified candidates not located in the area, they will consider a relocation package (so if you are in N. Dakota, now is the opportunity to get into the warmth!</div><div>The nuts and bolts of the position and the requirements:</div><div>Technician Duties and Responsibilities</div><div>•\tMonitor and analyze electrical systems</div><div>•\tTest devices for improvement, safety, and quality control</div><div>•\tUpdate older electrical systems for changes, cost reductions, improvements, safety, and quality control</div><div>•\tRepair broken equipment and wiring</div><div>•\tPerform and analyze tests to track results and make improvements</div><div>•\tPerform calibrations</div><div>•\tParticipating in test runs and meeting safety regulations</div><div>•\tInstall new products, and test them to ensure they are working correctly</div><div>•\tEducating the customer on how to use and maintain their device</div><div>•\tPerform maintenance and provide customer support</div><div>•\tDiagnose problems and come up with solutions to repair them</div><div>•\tOrdering parts needed for repairs if needed</div><div>•\tFill out detailed reports and keep records on services that have been performed</div><div>•\tExplain issues with equipment and repairs to customers</div><div>Technician Requirements and Qualifications</div><div>•\tFour to five years of experience as a technician, apprentice technician, or relevant work experience</div><div>•\tAbility to install, repair, service test and troubleshoot equipment</div><div>•\tAble to multitask, prioritize, and manage time efficiently</div><div>•\tCreative problem solver who thrives when presented with a challenge</div><div>•\tAble to analyze problems and strategize for better solutions</div><div>•\tFlexible and able to multitask on several different aspects of a project or on multiple projects</div><div>•\tAble to take initiative to recommend projects and product improvements</div><div>•\tMust be able to meet the physical requirements of the job which include bending, lifting heavy equipment and</div><div>•\tworking in confined spaces.</div><div>•\tTechnical school degree and certification for technicians</div><div>•\tProficient computer skills, Microsoft Office Suite (Word, PowerPoint, Outlook, and Excel)</div><div>•\tExcellent communicator: able to understand instructions and communicate effectively</div><div>•\tStrong mathematical and technical skills</div><div>•\tDriver’s license and reliable transportation required</div><div>•\tMust have own basic hand tools</div><div><br></div><div>All candidates who meet the above qualifications will be considered regardless of age, race, national origin, gender, sexual orientation, politics, religion or even eye-color!  But your attention to detail, ability to communicate (English), work ethic, personal responsibility, and career focus must all be top notch.</div><div>This is a land-based, US position.  At this point, only US legal candidates will be considered.  Candidates recently out of the military with the requested experience are strongly encouraged to apply.  Candidates who are looking to become Tick Tok influencers need not waste their time.</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202500\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-hm",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-hn",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            },
+            "STRONG": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "contacts1-ho",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

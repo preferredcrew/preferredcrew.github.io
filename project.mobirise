@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 637,
+    "uniqCompNum": 641,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -6319,7 +6319,7 @@
           },
           "title5": "Land Based",
           "subtitle5": "Review our client's current openings",
-          "caption5": "<b><a href=\"2500.html\" class=\"text-primary\">Marine Technician</a></b>",
+          "caption5": "<b><a href=\"2500.html\" class=\"text-primary\">Marine Technician</a><br><a href=\"2501.html\" target=\"_blank\" class=\"text-primary\">Technical Manager</a></b>",
           "button5": "<a data-app-btn=\"true\" href=\"land.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
@@ -12116,6 +12116,206 @@
             }
           },
           "_anchor": "contacts1-ho",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#000000"
+            }
+          },
+          "text1": "<strong>Mailing Address</strong><br>Preferred Crew, LLC<br>PO Box 120202<br>Fort Lauderdale, FL 33312<br>USA<br>",
+          "text2": "<strong>Contact</strong><br>\nEmail: <a href=\"mailto:info@preferredcrew.com?subject=Website%20Enquiry\">info@preferredcrew.com</a><br>",
+          "text3": ""
+        }
+      ]
+    },
+    "2501.html": {
+      "settings": {
+        "title": "2501",
+        "meta_descr": "Marine Technical Manager",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-hp",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Technical Manager",
+          "text": "<div>The Role:</div><div>Our Technical Manager provides technical support to our managed fleet. Building strong relationships with the Captains and Chief Engineers, providing support to them as needed.&nbsp;</div><div>Resolving technical issues and to assisting all yachts in maintaining value and ensuring safety at sea.</div><div>Done by providing day-to-day technical guidance carrying out technical inspections as per our established SMS and provide/assisting with warranty  management services.</div><div>Based in Fort Lauderdale, international travel is a regular requirement -  to the yachts, owners homes, other team offices around the world.  Travel can be at short notice as per the needs of the clients and team.</div><div>Key Responsibilities:</div><div>• Manage relationships (Chief Engineer, Captain, Crew etc.).</div><div>• Manage all technical compliance issues as required by the Safety Management System(SMS).</div><div>• Proactively coordinate the delivery of technical support and technical management services for the managed fleet.&nbsp;</div><div>Answer technical queries and assist with: resolving technical failures/emergencies and spare part procurement as needed.</div><div>• Assist with initial implementation, or review of existing on-board Planned Maintenance Systems(PMS)</div><div>• Delivering technical support to the Yacht Managers, Accountants and DPAs, as required&nbsp;</div><div>• Oversea technical yacht compliance in accordance with the Company SMS by reviewing/monitoring Chief Engineer’s monthly reports, defect reports, reportable forms, Chief Engineer’s standing orders, critical equipment lists etc.</div><div>• To conduct the annual technical inspection as required by the SMS taking into consideration class and statutory requirements and industry best practice, using the Safety Culture and ManageMyVessel software.</div><div>• Monitor all regulatory requirements on a portfolio of yachts together with the Yacht Manager and DPA.</div><div>• Be able to answer all technical company compliance questions as required by the SMS during company internal audits</div><div>• Monitor upcoming technical regulatory requirements and how that will affect the portfolio of managed yachts</div><div>• Member of the Emergency Response Team as per the Emergency Response Plan, Participation in the company’s emergency response team in conjunction with drills and in collaboration with the managed fleet.</div><div>• Assist Yacht Managers and Accountants within the operational fleet, as required, with the review of operational budgets.</div><div>• Review maintenance and technical reports and follow up with the crew or any other third parties as necessary.</div><div>• Liaise with classification societies, flag states, shipyards and insurers as required/requested.</div><div>• Manage and assist with warranty management services provided to new yachts entering the fleet.</div><div>• To develop and review refit specifications, manage the refit tender process, review of shipyard contracts, provide recommendations to clients for refit project taking into consideration price, location, experience, quality, and operational requirements etc.</div><div>• Manage refits onsite (short term visits) and/or remotely depending on the size and scope of the refit, in accordance with the refit contract and agreed budget.</div><div>• Monitor budget and progress reports for smaller refits, attendance at refit planning, and progress meetings as required.</div><div><br></div><div>Identify commercial opportunities:</div><div><br></div><div>• Identify potential refit projects during Technical Inspections in existing fleet.</div><div>• Identify potential additional Technical and Yacht Management services in existing fleet.</div><div>• Identify cross-selling opportunities for other team services.</div><div>• Identify new yachts for the fleet and coordinate proposals where appropriate.</div><div>• Ensure all existing services are correctly accounted</div><div><br></div><div>Qualifications and experience:</div><div>• Seagoing experience as a Chief Engineer or 2nd Engineer (commercial) OR Chief Engineer (yachting (Y1) OR experience ashore as a Technical Superintendent, Naval Architect, Class Surveyor, and/or shipyard/refit Project Manager.</div><div>• High level understanding of SOLAS, MARPOL, and STCW (as applicable to engineering levels); Class rules, IACS unified interpretations, SSC rules, REG Code; common Flag Administration reporting standards.</div><div>• Strong project/refit/new build management skills.</div><div>• Existing yacht industry experience preferred.</div><div>• Excellent communication and report-writing skills.</div><div>• Must be proficient in Microsoft Office, experience with planned maintenance systems and yacht management software such as ManageMyVessel (MMV) preferred.</div><div>• Strong mediation skills and the ability to multitask.</div><div>The position is a growth position for the company so although they are not in a rush, they can hire as soon as immediately.  The salary and benefits are commensurate with the responsibility of the position and will reflect the experience you bring to the table.</div><div>Please note that this is a US Based position and as such, US-legal is a requirement for consideration.</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"mailto:ian.pelham@preferredcrew.com?subject=I%20am%20interested%20in%20Job%202501\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Submit CV</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-hq",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-hr",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pcrew-logo-edit-190x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PREFERRED <br>&nbsp; &nbsp; &nbsp;CREW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"requirements.html\">REQUIREMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jobs.html\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tips.html\">TIPS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            },
+            "STRONG": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "contacts1-hs",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

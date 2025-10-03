@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "xtips.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -151,7 +151,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved | Developed by <a href=\"http://www.TheosIT.com\" target=\"_blank\">THEOS IT Solutions</a>"
+          "text": "Copyright (c) 2018. Preferred Crew LLC.<br>All rights reserved&nbsp;"
         },
         {
           "_styles": {

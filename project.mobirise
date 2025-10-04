@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PreferredCrew",
-    "currentPage": "xtips.html",
+    "currentPage": "tips.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -288,7 +288,7 @@
         }
       ]
     },
-    "xrequirements.html": {
+    "requirements.html": {
       "settings": {
         "title": "Requirements - Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
@@ -1007,7 +1007,7 @@
         }
       ]
     },
-    "xjobs.html": {
+    "jobs.html": {
       "settings": {
         "title": "Jobs - Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
@@ -1296,7 +1296,7 @@
         }
       ]
     },
-    "xfaq.html": {
+    "faq.html": {
       "settings": {
         "title": "FAQ - Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
@@ -2406,7 +2406,7 @@
         }
       ]
     },
-    "xclients.html": {
+    "clients.html": {
       "settings": {
         "title": "Clients - Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
@@ -2860,7 +2860,7 @@
         }
       ]
     },
-    "xabout.html": {
+    "about.html": {
       "settings": {
         "title": "About Us - Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
@@ -3331,7 +3331,7 @@
         }
       ]
     },
-    "xtips.html": {
+    "tips.html": {
       "settings": {
         "title": "Preferred Crew - The Agency for Professional Crew",
         "meta_descr": "",
